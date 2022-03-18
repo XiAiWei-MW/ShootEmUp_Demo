@@ -1,10 +1,10 @@
-﻿Log file open, 03/17/22 15:20:06
+﻿Log file open, 03/18/22 16:53:32
 LogInit: LLM is enabled
 LogInit: LLM CsvWriter: off TraceWriter: off
 LogInit: Display: Running engine for game: ShootEmUp
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.338910
+LogStats: Stats thread started at 0.249526
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
 LogPluginManager: Mounting plugin MeshPainting
@@ -14,83 +14,89 @@ LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin CameraShakePreviewer
-LogPluginManager: Mounting plugin AnimationSharing
-LogPluginManager: Mounting plugin CLionSourceCodeAccess
-LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
-LogPluginManager: Mounting plugin NullSourceCodeAccess
-LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
-LogPluginManager: Mounting plugin PlasticSourceControl
-LogPluginManager: Mounting plugin GitSourceControl
-LogPluginManager: Mounting plugin PerforceSourceControl
-LogPluginManager: Mounting plugin PropertyAccessNode
-LogPluginManager: Mounting plugin PluginUtils
-LogPluginManager: Mounting plugin RiderSourceCodeAccess
-LogPluginManager: Mounting plugin SubversionSourceControl
-LogPluginManager: Mounting plugin UObjectPlugin
-LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
-LogPluginManager: Mounting plugin XCodeSourceCodeAccess
-LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
 LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
 LogPluginManager: Mounting plugin CryptoKeys
 LogPluginManager: Mounting plugin DataValidation
-LogPluginManager: Mounting plugin CurveEditorTools
-LogPluginManager: Mounting plugin GeometryMode
-LogPluginManager: Mounting plugin FacialAnimation
 LogPluginManager: Mounting plugin GameplayTagsEditor
-LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin FacialAnimation
 LogPluginManager: Mounting plugin SpeedTreeImporter
-LogPluginManager: Mounting plugin Niagara
-LogPluginManager: Mounting plugin DatasmithContent
-LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin AlembicImporter
 LogPluginManager: Mounting plugin AutomationUtils
 LogPluginManager: Mounting plugin BackChannel
-LogPluginManager: Mounting plugin ChaosClothEditor
 LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
 LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin Niagara
 LogPluginManager: Mounting plugin ChaosNiagara
 LogPluginManager: Mounting plugin ChaosSolverPlugin
 LogPluginManager: Mounting plugin CharacterAI
-LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin GeometryCache
-LogPluginManager: Mounting plugin LuminPlatformFeatures
-LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting plugin GeometryProcessing
-LogPluginManager: Mounting plugin MagicLeapLightEstimation
-LogPluginManager: Mounting plugin MagicLeapMedia
-LogPluginManager: Mounting plugin MagicLeapPassableWorld
-LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
 LogPluginManager: Mounting plugin MotoSynth
-LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
-LogPluginManager: Mounting plugin LauncherChunkInstaller
-LogPluginManager: Mounting plugin OnlineSubsystem
-LogPluginManager: Mounting plugin OnlineSubsystemNull
-LogPluginManager: Mounting plugin OnlineSubsystemUtils
 LogPluginManager: Mounting plugin ActorSequence
-LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
 LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AndroidPermission
 LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin AppleMoviePlayer
-LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin AssetTags
-LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin CableComponent
-LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin GoogleCloudMessaging
@@ -99,28 +105,22 @@ LogPluginManager: Mounting plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting plugin LocationServicesBPLibrary
 LogPluginManager: Mounting plugin MobilePatchingUtils
-LogPluginManager: Mounting plugin PhysXVehicles
 LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin PropertyAccessEditor
-LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SignificanceManager
 LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogPluginManager: Mounting plugin ScreenshotTools
-LogPluginManager: Mounting plugin AndroidMedia
-LogPluginManager: Mounting plugin AvfMedia
-LogPluginManager: Mounting plugin ImgMedia
-LogPluginManager: Mounting plugin MediaCompositing
-LogPluginManager: Mounting plugin MediaPlayerEditor
-LogPluginManager: Mounting plugin WmfMedia
-LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
-LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamVR
 LogXGEController: Cleaning working directory: C:/Users/astro/AppData/Local/Temp/UnrealXGEWorkingDir/
@@ -209,749 +209,885 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2022.03.17-07.20.07:584][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2022.03.17-07.20.07:584][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Engine.ini]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Engine.ini]
-[2022.03.17-07.20.07:585][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Engine.ini]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Engine.ini]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
-[2022.03.17-07.20.07:585][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Engine.ini]
-[2022.03.17-07.20.07:585][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Engine.ini]
-[2022.03.17-07.20.07:625][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2022.03.17-07.20.07:625][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2022.03.17-07.20.07:626][  0]LogInit: Selected Device Profile: [Windows]
-[2022.03.17-07.20.07:626][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2022.03.17-07.20.07:626][  0]LogHAL: Display: Platform has ~ 16 GB [17031487488 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2022.03.17-07.20.07:626][  0]LogInit: Going up to parent DeviceProfile []
-[2022.03.17-07.20.07:626][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2022.03.17-07.20.07:626][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2022.03.17-07.20.07:627][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2022.03.17-07.20.07:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2022.03.17-07.20.07:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2022.03.17-07.20.07:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2022.03.17-07.20.07:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2022.03.17-07.20.07:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2022.03.17-07.20.07:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2022.03.17-07.20.07:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2022.03.17-07.20.07:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2022.03.17-07.20.07:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2022.03.17-07.20.07:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2022.03.17-07.20.07:628][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
-[2022.03.17-07.20.07:628][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2022.03.17-07.20.07:628][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2022.03.17-07.20.07:628][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
-[2022.03.17-07.20.07:628][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2022.03.17-07.20.07:628][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2022.03.17-07.20.07:628][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2022.03.17-07.20.07:628][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2022.03.17-07.20.07:644][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2022.03.17-07.20.07:644][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2022.03.17-07.20.07:644][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
-[2022.03.17-07.20.07:644][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Engine.ini]
-[2022.03.17-07.20.07:644][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Editor.ini]
-[2022.03.17-07.20.07:644][  0]LogInit: Computer: DESKTOP-CS7SNKU
-[2022.03.17-07.20.07:644][  0]LogInit: User: astro
-[2022.03.17-07.20.07:644][  0]LogInit: CPU Page size=4096, Cores=6
-[2022.03.17-07.20.07:644][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2022.03.17-07.20.07:644][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2022.03.17-07.20.07:644][  0]LogMemory: Platform Memory Stats for Windows
-[2022.03.17-07.20.07:644][  0]LogMemory: Process Physical Memory: 140.42 MB used, 140.42 MB peak
-[2022.03.17-07.20.07:644][  0]LogMemory: Process Virtual Memory: 112.61 MB used, 112.61 MB peak
-[2022.03.17-07.20.07:644][  0]LogMemory: Physical Memory: 10354.54 MB used,  5887.96 MB free, 16242.49 MB total
-[2022.03.17-07.20.07:644][  0]LogMemory: Virtual Memory: 134210696.00 MB used,  7031.06 MB free, 134217728.00 MB total
-[2022.03.17-07.20.07:926][  0]LogWindows: WindowsPlatformFeatures enabled
-[2022.03.17-07.20.07:993][  0]LogInit: Physics initialised using underlying interface: PhysX
-[2022.03.17-07.20.07:998][  0]LogInit: Using OS detected language (en-US).
-[2022.03.17-07.20.07:998][  0]LogInit: Using OS detected locale (en-US).
-[2022.03.17-07.20.08:003][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2022.03.17-07.20.08:257][  0]LogInit: Setting process to per monitor DPI aware
-[2022.03.17-07.20.08:422][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
-[2022.03.17-07.20.08:531][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2022.03.17-07.20.08:531][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2022.03.17-07.20.10:196][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2022.03.17-07.20.10:196][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2022.03.17-07.20.10:196][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2022.03.17-07.20.10:196][  0]LogD3D11RHI: D3D11 adapters:
-[2022.03.17-07.20.10:311][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
-[2022.03.17-07.20.10:311][  0]LogD3D11RHI:       8081/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2022.03.17-07.20.10:431][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
-[2022.03.17-07.20.10:431][  0]LogD3D11RHI:       128/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2022.03.17-07.20.10:436][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2022.03.17-07.20.10:436][  0]LogD3D11RHI:       0/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2022.03.17-07.20.10:436][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2022.03.17-07.20.10:442][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2022.03.17-07.20.10:442][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
-[2022.03.17-07.20.10:442][  0]LogWindows: EnumDisplayDevices:
-[2022.03.17-07.20.10:443][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
-[2022.03.17-07.20.10:443][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2022.03.17-07.20.10:443][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2022.03.17-07.20.10:444][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2022.03.17-07.20.10:444][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
-[2022.03.17-07.20.10:445][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
-[2022.03.17-07.20.10:445][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
-[2022.03.17-07.20.10:445][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
-[2022.03.17-07.20.10:445][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
-[2022.03.17-07.20.10:446][  0]LogD3D11RHI:   Driver Version: 461.40 (internal:27.21.14.6140, unified:461.40)
-[2022.03.17-07.20.10:446][  0]LogD3D11RHI:      Driver Date: 1-22-2021
-[2022.03.17-07.20.10:446][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
-[2022.03.17-07.20.10:555][  0]LogD3D11RHI: RHI has support for 64 bit atomics
-[2022.03.17-07.20.10:555][  0]LogD3D11RHI: Async texture creation enabled
-[2022.03.17-07.20.10:555][  0]LogD3D11RHI: Array index from any shader is supported
-[2022.03.17-07.20.10:580][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2022.03.17-07.20.10:583][  0]LogRHI: GeForceNow SDK initialized: 1
-[2022.03.17-07.20.12:408][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft Pinyin).
-[2022.03.17-07.20.12:411][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft Pinyin).
-[2022.03.17-07.20.13:118][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
-[2022.03.17-07.20.13:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
-[2022.03.17-07.20.13:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
-[2022.03.17-07.20.13:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
-[2022.03.17-07.20.13:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
-[2022.03.17-07.20.13:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
-[2022.03.17-07.20.13:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
-[2022.03.17-07.20.13:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
-[2022.03.17-07.20.13:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
-[2022.03.17-07.20.13:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
-[2022.03.17-07.20.13:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
-[2022.03.17-07.20.13:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
-[2022.03.17-07.20.13:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
-[2022.03.17-07.20.13:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
-[2022.03.17-07.20.13:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
-[2022.03.17-07.20.13:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
-[2022.03.17-07.20.13:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
-[2022.03.17-07.20.13:231][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
-[2022.03.17-07.20.13:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
-[2022.03.17-07.20.13:249][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
-[2022.03.17-07.20.13:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
-[2022.03.17-07.20.13:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
-[2022.03.17-07.20.13:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
-[2022.03.17-07.20.13:345][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
-[2022.03.17-07.20.13:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
-[2022.03.17-07.20.13:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
-[2022.03.17-07.20.13:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
-[2022.03.17-07.20.13:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
-[2022.03.17-07.20.13:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
-[2022.03.17-07.20.13:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
-[2022.03.17-07.20.13:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
-[2022.03.17-07.20.13:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
-[2022.03.17-07.20.13:430][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2022.03.17-07.20.13:439][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2022.03.17-07.20.13:642][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
-[2022.03.17-07.20.13:642][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (E:/Unreal/ShootEmUp_Demo-main/Intermediate/Shaders/WorkingDirectory/18868/).
-[2022.03.17-07.20.13:643][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/astro/AppData/Local/Temp/UnrealShaderWorkingDir/EB9018224E58D7CA6ABFE081104D9462/'.
-[2022.03.17-07.20.13:643][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2022.03.17-07.20.13:643][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2022.03.17-07.20.14:546][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2022.03.17-07.20.14:925][  0]LogDerivedDataCache: Loaded boot cache 0.38s 77MB C:/Users/astro/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
-[2022.03.17-07.20.14:925][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/astro/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
-[2022.03.17-07.20.14:925][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Unreal/ShootEmUp_Demo-main/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2022.03.17-07.20.14:925][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2022.03.17-07.20.14:925][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Unreal/ShootEmUp_Demo-main/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2022.03.17-07.20.14:925][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2022.03.17-07.20.14:937][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2022.03.17-07.20.14:937][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2022.03.17-07.20.14:937][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2022.03.17-07.20.15:020][  0]LogDerivedDataCache: Speed tests for C:/Users/astro/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.08 seconds
-[2022.03.17-07.20.15:020][  0]LogDerivedDataCache: Display: Performance to C:/Users/astro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.13ms. RandomReadSpeed=12.63MBs, RandomWriteSpeed=122.61MBs. Assigned SpeedClass 'Local'
-[2022.03.17-07.20.15:021][  0]LogDerivedDataCache: Using Local data cache path C:/Users/astro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2022.03.17-07.20.15:021][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2022.03.17-07.20.15:021][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2022.03.17-07.20.15:071][  0]LogSlate: Using FreeType 2.10.0
-[2022.03.17-07.20.15:143][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2022.03.17-07.20.15:509][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
-[2022.03.17-07.20.15:741][  0]LogInit: Selected Device Profile: [Windows]
-[2022.03.17-07.20.15:741][  0]LogInit: Active device profile: [000002E2B3F6FC00][000002E2B20FCAC0 49] Windows
-[2022.03.17-07.20.15:741][  0]LogInit: Profiles: [000002E2B3F6FC00][000002E2B20FCAC0 49] Windows, [000002E2B3F78600][000002E2B3452C40 49] WindowsNoEditor, [000002E2B3F6C400][000002E2B3456DC0 49] WindowsServer, [000002E2B3F7B900][000002E2B345AF40 49] WindowsClient, [000002E2B3F6F800][000002E2B345F0C0 49] IOS, [000002E2B3F78900][000002E2B3463240 49] iPadAir, [000002E2B3F6C800][000002E2B34673C0 49] iPadAir2, [000002E2B3F2D500][000002E2B344F640 49] IPadPro, [000002E2B3F2D600][000002E2B346B680 49] iPadAir3, [000002E2B3F6F600][000002E2B346F7C0 49] iPadAir4, [000002E2B3F2CA00][000002E2B3473900 49] iPadMini2, [000002E2B3F6C500][000002E2B347BA80 49] iPadMini3, [000002E2B3F2E100][000002E2B347FC00 49] iPadMini4, [000002E2B3F6F300][000002E2B34820C0 49] iPadMini5, [000002E2B3F7A600][000002E2B348A380 49] iPhone6, [000002E2B3F7A500][000002E2B34863C0 49] iPodTouch6, [000002E2B3F2FB00][000002E2B3492680 49] iPhone7, [000002E2B3F2FA00][000002E2B348E6C0 49] iPodTouch7, [000002E2B3F7AA00][000002E2B3496840 49] iPhone5S, [000002E2B3F2FC00][000002E2B349A9C0 49] iPhone6Plus, [000002E2B3F79D00][000002E2B349EB40 49] iPhone6S, [000002E2B3F2F100][000002E2B34A2CC0 49] iPhone6SPlus, [000002E2B3F7B500][000002E2B34A6E40 49] iPhone7Plus, [000002E2B3F2C300][000002E2B34AAFC0 49] iPhoneSE, [000002E2B3F79800][000002E2B34AF140 49] iPhone8, [000002E2B3F2EC00][000002E2B34B32C0 49] iPhone8Plus, [000002E2B3F7BE00][000002E2B34B7440 49] iPhoneX, [000002E2B3F2C800][000002E2B34BB5C0 49] iPhoneXS, [000002E2B3F7AE00][000002E2B3477700 49] iPhoneXSMax, [000002E2B3F2D100][000002E2B34BF840 49] iPhoneXR, [000002E2B3F79B00][000002E2B34C3980 49] iPhone11, [000002E2B3F2DF00][000002E2B34C7AC0 49] iPhone11Pro, [000002E2B3F79400][000002E2B34CFC40 49] iPhone11ProMax, [000002E2B3F2E600][000002E2B34D2100 49] iPhoneSE2, [000002E2B3F7A100][000002E2B34D6280 49] iPhone12Mini, [000002E2B3F2DE00][000002E2B34DA400 49] iPhone12, [000002E2B3F79000][000002E2B34DE580 49] iPhone12Pro, [000002E2B3F2CC00][000002E2B34E2700 49] iPhone12ProMax, [000002E2B3F79900][000002E2B34E6880 49] iPadPro105, [000002E2B3F2DB00][000002E2B34EAA00 49] iPadPro129, [000002E2B3F78E00][000002E2B34EEB80 49] iPadPro97, [000002E2B3F2E300][000002E2B34F2D00 49] iPadPro2_129, [000002E2B3F78400][000002E2B34F6E80 49] iPad5, [000002E2B3F2D800][000002E2B34FB000 49] iPad6, [000002E2B3F78C00][000002E2B34FF180 49] iPad7, [000002E2B3F2D700][000002E2B3503300 49] iPad8, [000002E2B3F78F00][000002E2B3507480 49] iPadPro11, [000002E2B3F2E900][000002E2B350B600 49] iPadPro2_11, [000002E2B3F7B800][000002E2B34CB740 49] iPadPro3_129, [000002E2B3F2C500][000002E2B4521880 49] iPadPro4_129, [000002E2B3F78300][000002E2B45259C0 49] AppleTV, [000002E2B3F2F700][000002E2B4529B00 49] AppleTV4K, [000002E2B3F7AC00][000002E2B4531C80 49] TVOS, [000002E2B3F2FD00][000002E2B4534140 49] Mac, [000002E2B3F78B00][000002E2B45382C0 49] MacClient, [000002E2B3F2F000][000002E2B453C440 49] MacNoEditor, [000002E2B3F7A700][000002E2B45405C0 49] MacServer, [000002E2B3F2EE00][000002E2B4544740 49] Linux, [000002E2B3F79200][000002E2B45488C0 49] LinuxAArch64, [000002E2B3F2F500][000002E2B454CA40 49] LinuxNoEditor, [000002E2B3F7AD00][000002E2B4550BC0 49] LinuxAArch64NoEditor, [000002E2B3F2E200][000002E2B4554D40 49] LinuxClient, [000002E2B3F7AF00][000002E2B4558EC0 49] LinuxAArch64Client, [000002E2B3F2ED00][000002E2B455D040 49] LinuxServer, [000002E2B3F79700][000002E2B45611C0 49] LinuxAArch64Server, [000002E2B3F6CB00][000002E2B4565340 49] Android, [000002E2B3FF5400][000002E2B45694C0 49] Android_Low, [000002E2B3F6EF00][000002E2B456D640 49] Android_Mid, [000002E2B3FF4600][000002E2B45717C0 49] Android_High, [000002E2B3F6DD00][000002E2B452D900 49] Android_Default, [000002E2B3FF5900][000002E2B4575A40 49] Android_Adreno4xx, [000002E2B3F6D000][000002E2B4579B80 49] Android_Adreno5xx_Low, [000002E2B3FF4400][000002E2B4581D00 49] Android_Adreno5xx, [000002E2B3F6C100][000002E2B45841C0 49] Android_Adreno6xx, [000002E2B3FF4F00][000002E2B4588340 49] Android_Adreno6xx_Vulkan, [000002E2B3F6E100][000002E2B458C4C0 49] Android_Mali_T6xx, [000002E2B3FF4100][000002E2B4590640 49] Android_Mali_T7xx, [000002E2B3F6CF00][000002E2B45947C0 49] Android_Mali_T8xx, [000002E2B3FF4D00][000002E2B4598940 49] Android_Mali_G71, [000002E2B3F6D600][000002E2B459CAC0 49] Android_Mali_G72, [000002E2B3FF5100][000002E2B45A0C40 49] Android_Mali_G72_Vulkan, [000002E2B3F6DB00][000002E2B45A4DC0 49] Android_Mali_G76, [000002E2B3FF5000][000002E2B45A8F40 49] Android_Mali_G76_Vulkan, [000002E2B3F6FF00][000002E2B45AD0C0 49] Android_Mali_G77, [000002E2B3FF4900][000002E2B45B1240 49] Android_Mali_G77_Vulkan, [000002E2B3F6E400][000002E2B45B53C0 49] Android_Vulkan_SM5, [000002E2B3FF4A00][000002E2B45B9540 49] Android_PowerVR_G6xxx, [000002E2B3F7AB00][000002E2B45BD6C0 49] Android_PowerVR_GT7xxx, [000002E2B3F2C600][000002E2B45C1840 49] Android_PowerVR_GE8xxx, [000002E2B3F7A300][000002E2B457D980 49] Android_PowerVR_GM9xxx, [000002E2B3F2FE00][000002E2B45C5AC0 49] Android_PowerVR_GM9xxx_Vulkan, [000002E2B3F7BC00][000002E2B45C9C00 49] Android_TegraK1, [000002E2B3F2D000][000002E2B45D00C0 49] Android_Unknown_Vulkan, [000002E2B3F78200][000002E2B45D4240 49] Lumin, [000002E2B3F2C700][000002E2B45D83C0 49] Lumin_Desktop, [000002E2B3F79100][000002E2B45DC540 49] HoloLens, 
-[2022.03.17-07.20.15:897][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2022.03.17-07.20.15:897][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2022.03.17-07.20.15:897][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2022.03.17-07.20.15:897][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2022.03.17-07.20.15:897][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2022.03.17-07.20.15:916][  0]LogNetVersion: ShootEmUp 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1933242009)
-[2022.03.17-07.20.23:337][  0]LogHMD: PokeAHoleMaterial loaded successfully
-[2022.03.17-07.20.23:380][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.042826 seconds
-[2022.03.17-07.20.23:386][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
-[2022.03.17-07.20.23:386][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
-[2022.03.17-07.20.23:386][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2022.03.17-07.20.24:180][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2022.03.17-07.20.24:185][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2022.03.17-07.20.24:311][  0]LogLinker: Warning: Failed to load '/Game/2DSideScrollerBP/2DSideScrollerOverview': Can't find file.
-[2022.03.17-07.20.24:311][  0]LogLinker: Warning: Failed to load '/Game/2DSideScrollerBP/2DSideScrollerOverview': Can't find file.
-[2022.03.17-07.20.24:311][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview_C'
-[2022.03.17-07.20.24:349][  0]SourceControl: Source control is disabled
-[2022.03.17-07.20.24:349][  0]SourceControl: Source control is disabled
-[2022.03.17-07.20.24:353][  0]SourceControl: Source control is disabled
-[2022.03.17-07.20.24:356][  0]SourceControl: Source control is disabled
-[2022.03.17-07.20.24:366][  0]SourceControl: Source control is disabled
-[2022.03.17-07.20.24:373][  0]LogUProjectInfo: Found projects:
-[2022.03.17-07.20.24:814][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2022.03.17-07.20.24:843][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2022.03.17-07.20.24:843][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2022.03.17-07.20.24:928][  0]LogCollectionManager: Loaded 0 collections in 0.001439 seconds
-[2022.03.17-07.20.24:953][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/ShootEmUp_Demo-main/Saved/Collections/' took 0.00s
-[2022.03.17-07.20.24:953][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/ShootEmUp_Demo-main/Content/Developers/astro/Collections/' took 0.00s
-[2022.03.17-07.20.24:953][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/ShootEmUp_Demo-main/Content/Collections/' took 0.00s
-[2022.03.17-07.20.24:953][  0]LogOcInput: OculusInput pre-init called
-[2022.03.17-07.20.24:969][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
-[2022.03.17-07.20.24:969][  0]LogWindows: File 'OVRPlugin.dll' does not exist
-[2022.03.17-07.20.25:056][  0]LogEngine: Initializing Engine...
-[2022.03.17-07.20.25:058][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2022.03.17-07.20.25:058][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
-[2022.03.17-07.20.25:059][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2022.03.17-07.20.25:159][  0]LogInit: Initializing FReadOnlyCVARCache
-[2022.03.17-07.20.25:167][  0]LogAIModule: Creating AISystem for world Untitled
-[2022.03.17-07.20.25:182][  0]LogAudio: Display: Initializing Audio Device Manager...
-[2022.03.17-07.20.25:186][  0]LogAudio: Display: Audio Device Manager Initialized
-[2022.03.17-07.20.25:186][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
-[2022.03.17-07.20.25:186][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2022.03.17-07.20.25:186][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2022.03.17-07.20.25:186][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2022.03.17-07.20.25:186][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2022.03.17-07.20.25:186][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
-[2022.03.17-07.20.25:186][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
-[2022.03.17-07.20.25:186][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
-[2022.03.17-07.20.25:186][  0]LogAudio: Display: AudioDevice MaxSources: 32
-[2022.03.17-07.20.25:186][  0]LogAudio: Display: Using built-in audio occlusion.
-[2022.03.17-07.20.25:186][  0]LogAudioMixer: Display: Initializing audio mixer.
-[2022.03.17-07.20.25:345][  0]LogAudioMixer: Display: 0: FrontLeft
-[2022.03.17-07.20.25:345][  0]LogAudioMixer: Display: 1: FrontRight
-[2022.03.17-07.20.25:345][  0]LogAudioMixer: Display: 2: FrontCenter
-[2022.03.17-07.20.25:345][  0]LogAudioMixer: Display: 3: LowFrequency
-[2022.03.17-07.20.25:345][  0]LogAudioMixer: Display: 4: BackLeft
-[2022.03.17-07.20.25:345][  0]LogAudioMixer: Display: 5: BackRight
-[2022.03.17-07.20.25:345][  0]LogAudioMixer: Display: 6: SideLeft
-[2022.03.17-07.20.25:345][  0]LogAudioMixer: Display: 7: SideRight
-[2022.03.17-07.20.25:537][  0]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
-[2022.03.17-07.20.25:540][  0]LogAudioMixer: Display: Initializing Sound Submixes...
-[2022.03.17-07.20.25:542][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2022.03.17-07.20.25:542][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2022.03.17-07.20.25:543][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2022.03.17-07.20.25:543][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
-[2022.03.17-07.20.25:543][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
-[2022.03.17-07.20.25:549][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
-[2022.03.17-07.20.25:549][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
-[2022.03.17-07.20.25:549][  0]LogInit: FAudioDevice initialized.
-[2022.03.17-07.20.25:549][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
-[2022.03.17-07.20.25:549][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2022.03.17-07.20.25:678][  0]LogDerivedDataCache: Saved boot cache 0.13s 77MB C:/Users/astro/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
-[2022.03.17-07.20.25:679][  0]LogInit: Texture streaming: Enabled
-[2022.03.17-07.20.25:969][  0]LogInit: Transaction tracking system initialized
-[2022.03.17-07.20.25:993][  0]BlueprintLog: New page: Editor Load
-[2022.03.17-07.20.26:105][  0]LocalizationService: Localization service is disabled
-[2022.03.17-07.20.26:208][  0]TimingProfiler: Initialize
-[2022.03.17-07.20.26:208][  0]TimingProfiler: OnSessionChanged
-[2022.03.17-07.20.26:208][  0]LoadingProfiler: Initialize
-[2022.03.17-07.20.26:209][  0]LoadingProfiler: OnSessionChanged
-[2022.03.17-07.20.26:209][  0]NetworkingProfiler: Initialize
-[2022.03.17-07.20.26:209][  0]NetworkingProfiler: OnSessionChanged
-[2022.03.17-07.20.26:209][  0]MemoryProfiler: Initialize
-[2022.03.17-07.20.26:209][  0]MemoryProfiler: OnSessionChanged
-[2022.03.17-07.20.26:583][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
-[2022.03.17-07.20.26:583][  0]LogCook: Display: Mobile HDR setting 1
-[2022.03.17-07.20.26:754][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/ShootEmUp_Demo-main/Content/' took 0.00s
-[2022.03.17-07.20.28:095][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
-[2022.03.17-07.20.28:099][  0]SourceControl: Source control is disabled
-[2022.03.17-07.20.28:099][  0]LogUnrealEdMisc: Loading editor; pre map load, took 21.964
-[2022.03.17-07.20.28:099][  0]Cmd: MAP LOAD FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2022.03.17-07.20.28:112][  0]LightingResults: New page: Lighting Build
-[2022.03.17-07.20.28:113][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2022.03.17-07.20.28:114][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2022.03.17-07.20.28:114][  0]MapCheck: New page: Map Check
-[2022.03.17-07.20.28:114][  0]LightingResults: New page: Lighting Build
-[2022.03.17-07.20.28:121][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
-[2022.03.17-07.20.28:361][  0]LogStaticMesh: Building static mesh Aircraft...
-[2022.03.17-07.20.28:411][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Shapes/Aircraft.Aircraft
-[2022.03.17-07.20.28:439][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
-[2022.03.17-07.20.28:440][  0]LogAIModule: Creating AISystem for world Minimal_Default
-[2022.03.17-07.20.28:442][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2022.03.17-07.20.28:460][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
-[2022.03.17-07.20.28:460][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2022.03.17-07.20.28:460][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.191ms to complete.
-[2022.03.17-07.20.28:460][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.361
-[2022.03.17-07.20.28:460][  0]LogUnrealEdMisc: Total Editor Startup Time, took 22.325
-[2022.03.17-07.20.28:687][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft Pinyin).
-[2022.03.17-07.20.28:837][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2022.03.17-07.20.28:848][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2022.03.17-07.20.28:855][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2022.03.17-07.20.28:861][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2022.03.17-07.20.28:874][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0088 seconds. Added 3601 classes and 859 folders.
-[2022.03.17-07.20.28:876][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2022.03.17-07.20.28:916][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2022.03.17-07.20.28:916][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:916][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2022.03.17-07.20.28:916][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
-[2022.03.17-07.20.28:917][  0]LogPakFile: PakFile PrimaryIndexSize=189
-[2022.03.17-07.20.28:917][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:917][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
-[2022.03.17-07.20.28:917][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
-[2022.03.17-07.20.28:918][  0]LogPakFile: PakFile PrimaryIndexSize=191
-[2022.03.17-07.20.28:918][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:918][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
-[2022.03.17-07.20.28:918][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
-[2022.03.17-07.20.28:918][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2022.03.17-07.20.28:918][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:918][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2022.03.17-07.20.28:918][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
-[2022.03.17-07.20.28:919][  0]LogPakFile: PakFile PrimaryIndexSize=190
-[2022.03.17-07.20.28:919][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:919][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
-[2022.03.17-07.20.28:919][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
-[2022.03.17-07.20.28:920][  0]LogPakFile: PakFile PrimaryIndexSize=192
-[2022.03.17-07.20.28:920][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:920][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
-[2022.03.17-07.20.28:920][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
-[2022.03.17-07.20.28:920][  0]LogPakFile: PakFile PrimaryIndexSize=182
-[2022.03.17-07.20.28:920][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:920][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
-[2022.03.17-07.20.28:920][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
-[2022.03.17-07.20.28:921][  0]LogPakFile: PakFile PrimaryIndexSize=184
-[2022.03.17-07.20.28:921][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:921][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
-[2022.03.17-07.20.28:921][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
-[2022.03.17-07.20.28:922][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2022.03.17-07.20.28:922][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:922][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2022.03.17-07.20.28:922][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
-[2022.03.17-07.20.28:922][  0]LogPakFile: PakFile PrimaryIndexSize=182
-[2022.03.17-07.20.28:922][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:922][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
-[2022.03.17-07.20.28:922][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
-[2022.03.17-07.20.28:924][  0]LogPakFile: PakFile PrimaryIndexSize=184
-[2022.03.17-07.20.28:924][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:924][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
-[2022.03.17-07.20.28:924][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
-[2022.03.17-07.20.28:924][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2022.03.17-07.20.28:924][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:924][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2022.03.17-07.20.28:924][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
-[2022.03.17-07.20.28:925][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2022.03.17-07.20.28:925][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:925][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2022.03.17-07.20.28:925][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
-[2022.03.17-07.20.28:926][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2022.03.17-07.20.28:926][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:926][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2022.03.17-07.20.28:926][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
-[2022.03.17-07.20.28:926][  0]LogPakFile: PakFile PrimaryIndexSize=190
-[2022.03.17-07.20.28:926][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:926][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
-[2022.03.17-07.20.28:926][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
-[2022.03.17-07.20.28:927][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2022.03.17-07.20.28:927][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:927][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2022.03.17-07.20.28:927][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
-[2022.03.17-07.20.28:928][  0]LogPakFile: PakFile PrimaryIndexSize=189
-[2022.03.17-07.20.28:928][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:928][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
-[2022.03.17-07.20.28:928][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
-[2022.03.17-07.20.28:928][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2022.03.17-07.20.28:928][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:928][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2022.03.17-07.20.28:928][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
-[2022.03.17-07.20.28:929][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2022.03.17-07.20.28:929][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:929][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2022.03.17-07.20.28:929][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
-[2022.03.17-07.20.28:930][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2022.03.17-07.20.28:930][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:930][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2022.03.17-07.20.28:930][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
-[2022.03.17-07.20.28:930][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2022.03.17-07.20.28:930][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:930][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2022.03.17-07.20.28:930][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
-[2022.03.17-07.20.28:931][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2022.03.17-07.20.28:931][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:931][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2022.03.17-07.20.28:931][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
-[2022.03.17-07.20.28:932][  0]LogPakFile: PakFile PrimaryIndexSize=186
-[2022.03.17-07.20.28:932][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:932][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
-[2022.03.17-07.20.28:932][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
-[2022.03.17-07.20.28:933][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2022.03.17-07.20.28:933][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:933][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2022.03.17-07.20.28:933][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
-[2022.03.17-07.20.28:934][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2022.03.17-07.20.28:934][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:934][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2022.03.17-07.20.28:934][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
-[2022.03.17-07.20.28:934][  0]LogPakFile: PakFile PrimaryIndexSize=192
-[2022.03.17-07.20.28:934][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2022.03.17-07.20.28:934][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
-[2022.03.17-07.20.28:934][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
-[2022.03.17-07.20.29:357][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2022.03.17-07.20.29:481][  0]LogSlate: Took 0.037065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2022.03.17-07.20.29:510][  0]LogSlate: Took 0.026505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2022.03.17-07.20.29:521][  0]LogSlate: Took 0.009129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2022.03.17-07.20.29:596][  0]LogRenderer: Reallocating scene render targets to support 884x440 Format 10 NumSamples 1 (Frame:1).
-[2022.03.17-07.20.29:758][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2022.03.17-07.20.29:758][  0]LogLoad: (Engine Initialization) Total time: 23.62 seconds
-[2022.03.17-07.20.29:758][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2022.03.17-07.20.29:758][  0]LogInit: First time updating LLM stats...
-[2022.03.17-07.20.29:802][  0]LogAssetRegistry: Asset discovery search completed in 14.2938 seconds
-[2022.03.17-07.20.29:803][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
-[2022.03.17-07.20.29:829][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2022.03.17-07.20.29:921][  3]LogSlate: Took 0.023571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2022.03.17-07.20.32:454][111]LogSlate: Took 0.033320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2022.03.17-07.20.32:473][111]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprints/BP_GameMode.BP_GameMode
-[2022.03.17-07.20.32:615][111]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
-[2022.03.17-07.20.33:595][111]LogSlate: Took 0.040003 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2022.03.17-07.20.37:444][335]LogSlate: Took 0.013975 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2022.03.17-07.20.47:985][945]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
-[2022.03.17-07.21.13:947][314]BlueprintLog: New page: Compile BP_GameMode
-[2022.03.17-07.21.13:980][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
-[2022.03.17-07.21.14:104][314]LogSlate: Took 0.104327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
-[2022.03.17-07.21.14:608][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/BP_GameMode" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/BP_GameMode.uasset" SILENT=true
-[2022.03.17-07.21.14:610][340]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/BP_GameModeDE9C47374F1BD642161EDCB606D845BA.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/BP_GameMode.uasset'
-[2022.03.17-07.21.14:623][340]AssetCheck: New page: Asset Save: BP_GameMode
-[2022.03.17-07.21.14:623][340]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_GameMode.BP_GameMode
-[2022.03.17-07.21.17:323][497]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
-[2022.03.17-07.21.54:220][440]BlueprintLog: New page: Compile EnemyBase
-[2022.03.17-07.21.54:257][440]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
-[2022.03.17-07.21.54:726][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset" SILENT=true
-[2022.03.17-07.21.54:732][464]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBase49A99264429846591EFBF185310CA4EF.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset'
-[2022.03.17-07.21.54:746][464]AssetCheck: New page: Asset Save: EnemyBase
-[2022.03.17-07.21.54:747][464]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
-[2022.03.17-07.22.02:390][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/BP_GameMode" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/BP_GameMode.uasset" SILENT=true
-[2022.03.17-07.22.02:393][914]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/BP_GameModeC27E39994314207F7E2FDDA224543185.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/BP_GameMode.uasset'
-[2022.03.17-07.22.02:404][914]AssetCheck: New page: Asset Save: BP_GameMode
-[2022.03.17-07.22.02:404][914]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_GameMode.BP_GameMode
-[2022.03.17-07.22.03:557][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset" SILENT=true
-[2022.03.17-07.22.03:563][975]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBaseC5D190FE40EF1AB4051561BD9686DE4C.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset'
-[2022.03.17-07.22.03:574][975]AssetCheck: New page: Asset Save: EnemyBase
-[2022.03.17-07.22.03:574][975]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
-[2022.03.17-07.23.49:402][ 19]LogSlate: Window 'Delete Variable' being destroyed
-[2022.03.17-07.24.01:529][731]BlueprintLog: New page: Compile EnemyBase
-[2022.03.17-07.24.01:531][731]LogBlueprint: Error: [AssetLog] E:\Unreal\ShootEmUp_Demo-main\Content\Assets\Blueprints\EnemyBase.uasset: [Compiler] Could not find a pin for the parameter NewParam of UpdateEnemyCount on  Update Enemy Count
-[2022.03.17-07.24.01:531][731]LogBlueprint: Error: [AssetLog] E:\Unreal\ShootEmUp_Demo-main\Content\Assets\Blueprints\EnemyBase.uasset: [Compiler] Pin  Value  named Value doesn't match any parameters of function UpdateEnemyCount
-[2022.03.17-07.24.01:611][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
-[2022.03.17-07.24.20:797][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/BP_GameMode" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/BP_GameMode.uasset" SILENT=true
-[2022.03.17-07.24.20:799][867]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/BP_GameMode1B270D6E45B2E185E4E19D8FE83DDB35.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/BP_GameMode.uasset'
-[2022.03.17-07.24.20:813][867]AssetCheck: New page: Asset Save: BP_GameMode
-[2022.03.17-07.24.20:813][867]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/BP_GameMode.BP_GameMode
-[2022.03.17-07.24.22:053][942]BlueprintLog: New page: Compile EnemyBase
-[2022.03.17-07.24.22:055][942]LogBlueprint: Error: [AssetLog] E:\Unreal\ShootEmUp_Demo-main\Content\Assets\Blueprints\EnemyBase.uasset: [Compiler] Could not find a pin for the parameter NewParam of UpdateEnemyCount on  Update Enemy Count
-[2022.03.17-07.24.22:055][942]LogBlueprint: Error: [AssetLog] E:\Unreal\ShootEmUp_Demo-main\Content\Assets\Blueprints\EnemyBase.uasset: [Compiler] Pin  Value  named Value doesn't match any parameters of function UpdateEnemyCount
-[2022.03.17-07.24.22:088][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
-[2022.03.17-07.25.02:864][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset" SILENT=true
-[2022.03.17-07.25.02:872][ 43]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBase124BF4DC44FB215756C4C3AF6BB05279.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset'
-[2022.03.17-07.25.02:885][ 43]AssetCheck: New page: Asset Save: EnemyBase
-[2022.03.17-07.25.02:885][ 43]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
-[2022.03.17-07.25.17:438][913]BlueprintLog: New page: Compile BP_GameMode
-[2022.03.17-07.25.17:476][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
-[2022.03.17-07.25.17:998][944]BlueprintLog: New page: Compile BP_GameMode
-[2022.03.17-07.25.18:031][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
-[2022.03.17-07.25.58:546][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset" SILENT=true
-[2022.03.17-07.25.58:554][550]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBaseA68371FD48090F80FE6F45B46607D090.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset'
-[2022.03.17-07.25.58:566][550]AssetCheck: New page: Asset Save: EnemyBase
-[2022.03.17-07.25.58:566][550]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
-[2022.03.17-07.26.06:271][  9]BlueprintLog: New page: Compile EnemyBase
-[2022.03.17-07.26.06:306][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
-[2022.03.17-07.32.13:932][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
-[2022.03.17-07.32.13:933][ 74]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Maps/Minimal_Default' took 0.025
-[2022.03.17-07.32.13:934][ 74]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Blueprints/EnemyBase] ([1] browsable assets)...
-[2022.03.17-07.32.13:934][ 74]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/EnemyBase]
-[2022.03.17-07.32.13:934][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Saved/Autosaves/Game/Assets/Blueprints/EnemyBase_Auto1.uasset" SILENT=false AUTOSAVING=true
-[2022.03.17-07.32.13:942][ 74]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBase_Auto1C2C164854B71D6808528CCBB8D724E2C.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Saved/Autosaves/Game/Assets/Blueprints/EnemyBase_Auto1.uasset'
-[2022.03.17-07.32.13:943][ 74]LogFileHelpers: Auto-saving content packages took 0.009
-[2022.03.17-07.33.23:694][787]BlueprintLog: New page: Compile EnemyBase
-[2022.03.17-07.33.23:730][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
-[2022.03.17-07.33.24:449][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset" SILENT=true
-[2022.03.17-07.33.24:475][824]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBase74CED4754461B14CFAF2C08A2F3261D9.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset'
-[2022.03.17-07.33.24:487][824]AssetCheck: New page: Asset Save: EnemyBase
-[2022.03.17-07.33.24:487][824]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
-[2022.03.17-07.34.27:955][939]BlueprintLog: New page: Compile EnemyBase
-[2022.03.17-07.34.27:990][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
-[2022.03.17-07.34.28:813][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset" SILENT=true
-[2022.03.17-07.34.28:823][983]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBase8B75021A49BFDEE03CD44E84CB1F5F44.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset'
-[2022.03.17-07.34.28:835][983]AssetCheck: New page: Asset Save: EnemyBase
-[2022.03.17-07.34.28:835][983]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
-[2022.03.17-07.42.14:599][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
-[2022.03.17-07.42.14:600][358]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Maps/Minimal_Default' took 0.025
-[2022.03.17-07.42.14:601][358]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Blueprints/EnemyBase] ([1] browsable assets)...
-[2022.03.17-07.42.14:601][358]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/EnemyBase]
-[2022.03.17-07.42.14:601][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Saved/Autosaves/Game/Assets/Blueprints/EnemyBase_Auto2.uasset" SILENT=false AUTOSAVING=true
-[2022.03.17-07.42.14:611][358]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBase_Auto26C2899E3405046E5D6ACFAB8E2AC3476.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Saved/Autosaves/Game/Assets/Blueprints/EnemyBase_Auto2.uasset'
-[2022.03.17-07.42.14:612][358]LogFileHelpers: Auto-saving content packages took 0.012
-[2022.03.17-07.43.04:988][136]BlueprintLog: New page: Compile EnemyBase
-[2022.03.17-07.43.05:025][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
-[2022.03.17-07.43.05:576][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset" SILENT=true
-[2022.03.17-07.43.05:587][160]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBase82C622E24855E8C077CF2CB586428AC5.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset'
-[2022.03.17-07.43.05:598][160]AssetCheck: New page: Asset Save: EnemyBase
-[2022.03.17-07.43.05:598][160]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
-[2022.03.17-07.44.29:549][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset" SILENT=true
-[2022.03.17-07.44.29:561][690]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBase61CE5FB8437A1D43D1990CAC663592E3.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset'
-[2022.03.17-07.44.29:574][690]AssetCheck: New page: Asset Save: EnemyBase
-[2022.03.17-07.44.29:574][690]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
-[2022.03.17-07.45.06:412][869]BlueprintLog: New page: Compile EnemyBase
-[2022.03.17-07.45.06:448][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
-[2022.03.17-07.48.46:812][972]BlueprintLog: New page: Compile EnemyBase
-[2022.03.17-07.48.46:849][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
-[2022.03.17-07.48.47:361][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset" SILENT=true
-[2022.03.17-07.48.47:441][998]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBaseD6E70D8443FC20B6517EC198DBA1741E.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset'
-[2022.03.17-07.48.47:452][998]AssetCheck: New page: Asset Save: EnemyBase
-[2022.03.17-07.48.47:453][998]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
-[2022.03.17-07.49.46:323][564]BlueprintLog: New page: Compile EnemyBase
-[2022.03.17-07.49.46:359][564]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
-[2022.03.17-07.49.47:393][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset" SILENT=true
-[2022.03.17-07.49.47:406][620]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBase24E2107240EA73652E83F6889F5CC22C.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset'
-[2022.03.17-07.49.47:417][620]AssetCheck: New page: Asset Save: EnemyBase
-[2022.03.17-07.49.47:418][620]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
-[2022.03.17-07.50.15:262][265]BlueprintLog: New page: Compile EnemyBase
-[2022.03.17-07.50.15:298][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
-[2022.03.17-07.50.46:656][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset" SILENT=true
-[2022.03.17-07.50.46:669][581]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBaseD0E7C381484320B647E44F9AEF985B07.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset'
-[2022.03.17-07.50.46:681][581]AssetCheck: New page: Asset Save: EnemyBase
-[2022.03.17-07.50.46:681][581]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
-[2022.03.17-07.52.59:724][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
-[2022.03.17-07.52.59:724][992]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Maps/Minimal_Default' took 0.024
-[2022.03.17-07.52.59:725][992]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Blueprints/EnemyBase] ([1] browsable assets)...
-[2022.03.17-07.52.59:725][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/EnemyBase]
-[2022.03.17-07.52.59:725][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Saved/Autosaves/Game/Assets/Blueprints/EnemyBase_Auto3.uasset" SILENT=false AUTOSAVING=true
-[2022.03.17-07.52.59:738][992]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBase_Auto3A693FA854AAB32F11AD732814D9C6EEE.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Saved/Autosaves/Game/Assets/Blueprints/EnemyBase_Auto3.uasset'
-[2022.03.17-07.52.59:738][992]LogFileHelpers: Auto-saving content packages took 0.014
-[2022.03.17-07.53.48:008][904]BlueprintLog: New page: Compile EnemyBase
-[2022.03.17-07.53.48:042][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
-[2022.03.17-07.53.48:679][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset" SILENT=true
-[2022.03.17-07.53.48:694][937]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBaseFE371B794B6ECB8AE33839AF405D0D72.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset'
-[2022.03.17-07.53.48:706][937]AssetCheck: New page: Asset Save: EnemyBase
-[2022.03.17-07.53.48:706][937]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
-[2022.03.17-07.54.27:619][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset" SILENT=true
-[2022.03.17-07.54.27:634][626]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBase6A76ACE14E0B948F26FDE285B3D3CC1F.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset'
-[2022.03.17-07.54.27:646][626]AssetCheck: New page: Asset Save: EnemyBase
-[2022.03.17-07.54.27:646][626]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
-[2022.03.17-07.56.00:867][ 77]BlueprintLog: New page: Compile EnemyBase
-[2022.03.17-07.56.00:906][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
-[2022.03.17-07.56.01:619][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset" SILENT=true
-[2022.03.17-07.56.01:651][114]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBase1AF2AF2D41613807992D1AB19C1E3D99.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset'
-[2022.03.17-07.56.01:664][114]AssetCheck: New page: Asset Save: EnemyBase
-[2022.03.17-07.56.01:664][114]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
-[2022.03.17-07.57.46:245][ 76]LogEditorTransaction: Undo Delete current selection
-[2022.03.17-07.58.46:017][436]LogRenderer: Reallocating scene render targets to support 920x540 Format 10 NumSamples 1 (Frame:1).
-[2022.03.17-07.58.46:848][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset" SILENT=true
-[2022.03.17-07.58.46:865][481]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBaseEF15E4EB4A010F1E99A03BACBEF1F499.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset'
-[2022.03.17-07.58.46:878][481]AssetCheck: New page: Asset Save: EnemyBase
-[2022.03.17-07.58.46:878][481]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
-[2022.03.17-07.59.28:193][779]BlueprintLog: New page: Compile EnemyBase
-[2022.03.17-07.59.28:233][779]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
-[2022.03.17-07.59.29:024][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset" SILENT=true
-[2022.03.17-07.59.29:041][819]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBaseCBE911314BAB64775DFC868CF6C45A18.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset'
-[2022.03.17-07.59.29:053][819]AssetCheck: New page: Asset Save: EnemyBase
-[2022.03.17-07.59.29:053][819]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
-[2022.03.17-07.59.34:705][144]LogContentBrowser: Deferred new asset file creation: EnemyBase_Child
-[2022.03.17-07.59.34:746][144]LogContentBrowser: Creating deferred item: EnemyBase_Child
-[2022.03.17-07.59.38:101][346]LogContentBrowser: Attempting asset rename: EnemyBase_Child -> Enemy1
-[2022.03.17-07.59.38:103][346]LogContentBrowser: End creating deferred item EnemyBase_Child
-[2022.03.17-07.59.40:982][513]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprints/Enemy1.Enemy1
-[2022.03.17-07.59.43:779][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Enemy1" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/Enemy1.uasset" SILENT=true
-[2022.03.17-07.59.43:784][656]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/Enemy1675505444A3DC57F1CAE80AB4ACD8A3F.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/Enemy1.uasset'
-[2022.03.17-07.59.43:795][656]AssetCheck: New page: Asset Save: Enemy1
-[2022.03.17-07.59.43:795][656]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/Enemy1.Enemy1
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Engine.ini]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Engine.ini]
+[2022.03.18-08.53.33:529][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Engine.ini]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Engine.ini]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.18-08.53.33:529][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Engine.ini]
+[2022.03.18-08.53.33:529][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Engine.ini]
+[2022.03.18-08.53.33:541][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-08.53.33:541][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.18-08.53.33:541][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.18-08.53.33:541][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-08.53.33:541][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.18-08.53.33:541][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-08.53.33:541][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.18-08.53.33:541][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.18-08.53.33:541][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.18-08.53.33:541][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.18-08.53.33:541][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.18-08.53.33:541][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.18-08.53.33:542][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.18-08.53.33:543][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.18-08.53.33:543][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.18-08.53.33:543][  0]LogHAL: Display: Platform has ~ 16 GB [17031487488 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.18-08.53.33:543][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.18-08.53.33:543][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.18-08.53.33:543][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Scalability.ini]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.18-08.53.33:544][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Engine.ini]
+[2022.03.18-08.53.33:544][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal/ShootEmUp_Demo-main/Saved/Config/Windows/Editor.ini]
+[2022.03.18-08.53.33:544][  0]LogInit: Computer: DESKTOP-CS7SNKU
+[2022.03.18-08.53.33:544][  0]LogInit: User: astro
+[2022.03.18-08.53.33:544][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.03.18-08.53.33:544][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.18-08.53.33:544][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.03.18-08.53.33:545][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.18-08.53.33:545][  0]LogMemory: Process Physical Memory: 140.99 MB used, 141.00 MB peak
+[2022.03.18-08.53.33:545][  0]LogMemory: Process Virtual Memory: 112.34 MB used, 112.34 MB peak
+[2022.03.18-08.53.33:545][  0]LogMemory: Physical Memory: 11127.64 MB used,  5114.85 MB free, 16242.49 MB total
+[2022.03.18-08.53.33:545][  0]LogMemory: Virtual Memory: 134210744.00 MB used,  6985.65 MB free, 134217728.00 MB total
+[2022.03.18-08.53.33:830][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.18-08.53.33:895][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.18-08.53.33:896][  0]LogInit: Using OS detected language (en-US).
+[2022.03.18-08.53.33:896][  0]LogInit: Using OS detected locale (en-US).
+[2022.03.18-08.53.33:901][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.03.18-08.53.34:081][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.18-08.53.34:096][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.18-08.53.34:199][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.18-08.53.34:199][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.18-08.53.34:364][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.18-08.53.34:364][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.18-08.53.34:364][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.18-08.53.34:364][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.18-08.53.34:495][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2022.03.18-08.53.34:495][  0]LogD3D11RHI:       8081/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.03.18-08.53.34:539][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.03.18-08.53.34:539][  0]LogD3D11RHI:       128/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.03.18-08.53.34:542][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.18-08.53.34:542][  0]LogD3D11RHI:       0/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.18-08.53.34:542][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.03.18-08.53.34:549][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.18-08.53.34:549][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.18-08.53.34:550][  0]LogWindows: EnumDisplayDevices:
+[2022.03.18-08.53.34:550][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2022.03.18-08.53.34:550][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2022.03.18-08.53.34:551][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2022.03.18-08.53.34:551][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2022.03.18-08.53.34:552][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.03.18-08.53.34:552][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.03.18-08.53.34:553][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.03.18-08.53.34:553][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.03.18-08.53.34:553][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2022.03.18-08.53.34:553][  0]LogD3D11RHI:   Driver Version: 461.40 (internal:27.21.14.6140, unified:461.40)
+[2022.03.18-08.53.34:553][  0]LogD3D11RHI:      Driver Date: 1-22-2021
+[2022.03.18-08.53.34:553][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2022.03.18-08.53.34:665][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.18-08.53.34:665][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.18-08.53.34:665][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.18-08.53.34:694][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.03.18-08.53.34:698][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.18-08.53.37:053][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft Pinyin).
+[2022.03.18-08.53.37:056][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft Pinyin).
+[2022.03.18-08.53.37:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.18-08.53.37:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.18-08.53.37:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.18-08.53.37:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.18-08.53.37:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.18-08.53.37:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.18-08.53.37:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.18-08.53.37:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.18-08.53.37:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.18-08.53.37:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.18-08.53.37:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.18-08.53.37:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.18-08.53.37:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.18-08.53.37:609][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.18-08.53.37:618][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.18-08.53.37:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.18-08.53.37:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.18-08.53.37:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.18-08.53.37:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.18-08.53.37:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.18-08.53.37:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.18-08.53.37:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.18-08.53.37:701][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.18-08.53.37:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.18-08.53.37:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.18-08.53.37:729][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.18-08.53.37:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.18-08.53.37:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.18-08.53.37:754][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.18-08.53.37:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.18-08.53.37:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.18-08.53.37:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.18-08.53.37:786][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.18-08.53.37:794][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.18-08.53.37:864][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.18-08.53.37:865][  0]LogShaderCompilers: Guid format shader working directory is 17 characters bigger than the processId version (E:/Unreal/ShootEmUp_Demo-main/Intermediate/Shaders/WorkingDirectory/4572/).
+[2022.03.18-08.53.37:865][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/astro/AppData/Local/Temp/UnrealShaderWorkingDir/BC20FBCF47CB810CF3E529B0ADCFDD84/'.
+[2022.03.18-08.53.37:865][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.18-08.53.37:865][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.18-08.53.38:681][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.18-08.53.38:730][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/astro/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.03.18-08.53.38:730][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/astro/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.03.18-08.53.38:730][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Unreal/ShootEmUp_Demo-main/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.18-08.53.38:730][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.18-08.53.38:730][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Unreal/ShootEmUp_Demo-main/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.18-08.53.38:730][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.18-08.53.38:742][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.18-08.53.38:742][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.18-08.53.38:742][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.18-08.53.38:772][  0]LogDerivedDataCache: Speed tests for C:/Users/astro/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2022.03.18-08.53.38:772][  0]LogDerivedDataCache: Display: Performance to C:/Users/astro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.10ms. RandomReadSpeed=1004.52MBs, RandomWriteSpeed=33.53MBs. Assigned SpeedClass 'Local'
+[2022.03.18-08.53.38:773][  0]LogDerivedDataCache: Using Local data cache path C:/Users/astro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.18-08.53.38:773][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.18-08.53.38:773][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.18-08.53.38:821][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.18-08.53.38:822][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.18-08.53.38:849][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2022.03.18-08.53.39:093][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.18-08.53.39:093][  0]LogInit: Active device profile: [0000016018E17C00][000001601763A2C0 49] Windows
+[2022.03.18-08.53.39:093][  0]LogInit: Profiles: [0000016018E17C00][000001601763A2C0 49] Windows, [0000016018DD4600][0000016019856440 49] WindowsNoEditor, [0000016018E14400][000001601985A5C0 49] WindowsServer, [0000016018DD7900][000001601985E740 49] WindowsClient, [0000016018E17800][00000160198628C0 49] IOS, [0000016018DD4900][0000016019866A40 49] iPadAir, [0000016018E14800][000001601986ABC0 49] iPadAir2, [0000016018DA1500][0000016019872E80 49] IPadPro, [0000016018DA1600][000001601986EEC0 49] iPadAir3, [0000016018E17600][0000016019877040 49] iPadAir4, [0000016018DA0A00][000001601987B1C0 49] iPadMini2, [0000016018E14500][000001601987F340 49] iPadMini3, [0000016018DA2100][00000160198834C0 49] iPadMini4, [0000016018E17300][0000016019887640 49] iPadMini5, [0000016018DD6600][000001601988B880 49] iPhone6, [0000016018DD6500][00000160198538C0 49] iPodTouch6, [0000016018DA3B00][0000016019897B40 49] iPhone7, [0000016018DA3A00][000001601988FB80 49] iPodTouch7, [0000016018DD6A00][000001601989BD00 49] iPhone5S, [0000016018DA3C00][000001601989E1C0 49] iPhone6Plus, [0000016018DD5D00][00000160198A2340 49] iPhone6S, [0000016018DA3100][00000160198A64C0 49] iPhone6SPlus, [0000016018DD7500][00000160198AA640 49] iPhone7Plus, [0000016018DA0300][00000160198AE7C0 49] iPhoneSE, [0000016018DD5800][00000160198B2940 49] iPhone8, [0000016018DA2C00][00000160198B6AC0 49] iPhone8Plus, [0000016018DD7E00][00000160198BAC40 49] iPhoneX, [0000016018DA0800][00000160198BEDC0 49] iPhoneXS, [0000016018DD6E00][00000160198C2F40 49] iPhoneXSMax, [0000016018DA1100][00000160198C70C0 49] iPhoneXR, [0000016018DD5B00][00000160198CB240 49] iPhone11, [0000016018DA1F00][00000160198CF3C0 49] iPhone11Pro, [0000016018DD5400][00000160198D3540 49] iPhone11ProMax, [0000016018DA2600][00000160198D76C0 49] iPhoneSE2, [0000016018DD6100][0000016019893800 49] iPhone12Mini, [0000016018DA1E00][00000160198DB940 49] iPhone12, [0000016018DD5000][00000160198DFA80 49] iPhone12Pro, [0000016018DA0C00][00000160198E7C00 49] iPhone12ProMax, [0000016018DD5900][00000160198EA0C0 49] iPadPro105, [0000016018DA1B00][00000160198EE240 49] iPadPro129, [0000016018DD4E00][00000160198F23C0 49] iPadPro97, [0000016018DA2300][00000160198F6540 49] iPadPro2_129, [0000016018DD4400][00000160198FA6C0 49] iPad5, [0000016018DA1800][00000160198FE840 49] iPad6, [0000016018DD4C00][00000160199029C0 49] iPad7, [0000016018DA1700][0000016019906B40 49] iPad8, [0000016018DD4F00][000001601990ACC0 49] iPadPro11, [0000016018DA2900][000001601990EE40 49] iPadPro2_11, [0000016018DD7800][0000016019912FC0 49] iPadPro3_129, [0000016018DA0500][0000016019917140 49] iPadPro4_129, [0000016018DD4300][000001601991B2C0 49] AppleTV, [0000016018DA3700][000001601991F440 49] AppleTV4K, [0000016018DD6C00][00000160199235C0 49] TVOS, [0000016018DA3D00][0000016019927740 49] Mac, [0000016018DD4B00][00000160198E3880 49] MacClient, [0000016018DA3000][000001601992B9C0 49] MacNoEditor, [0000016018DD6700][000001601992FB00 49] MacServer, [0000016018DA2E00][0000016019933C40 49] Linux, [0000016018DD5200][000001601993A100 49] LinuxAArch64, [0000016018DA3500][000001601993E280 49] LinuxNoEditor, [0000016018DD6D00][0000016019942400 49] LinuxAArch64NoEditor, [0000016018DA2200][0000016019946580 49] LinuxClient, [0000016018DD6F00][000001601994A700 49] LinuxAArch64Client, [0000016018DA2D00][000001601994E880 49] LinuxServer, [0000016018DD5700][0000016019952A00 49] LinuxAArch64Server, [0000016018E14B00][0000016019956B80 49] Android, [0000016018E71400][000001601995AD00 49] Android_Low, [0000016018E16F00][000001601995EE80 49] Android_Mid, [0000016018E70600][0000016019963000 49] Android_High, [0000016018E15D00][0000016019967180 49] Android_Default, [0000016018E71900][000001601996B300 49] Android_Adreno4xx, [0000016018E15000][000001601996F480 49] Android_Adreno5xx_Low, [0000016018E70400][0000016019973600 49] Android_Adreno5xx, [0000016018E14100][0000016019977780 49] Android_Adreno6xx, [0000016018E70F00][00000160199378C0 49] Android_Adreno6xx_Vulkan, [0000016018E16100][000001601997BA00 49] Android_Mali_T6xx, [0000016018E70100][000001601997FB40 49] Android_Mali_T7xx, [0000016018E14F00][0000016019983C80 49] Android_Mali_T8xx, [0000016018E70D00][000001601998A140 49] Android_Mali_G71, [0000016018E15600][000001601998E2C0 49] Android_Mali_G72, [0000016018E71100][0000016019992440 49] Android_Mali_G72_Vulkan, [0000016018E15B00][00000160199965C0 49] Android_Mali_G76, [0000016018E71000][000001601999A740 49] Android_Mali_G76_Vulkan, [0000016018E17F00][000001601999E8C0 49] Android_Mali_G77, [0000016018E70900][00000160199A2A40 49] Android_Mali_G77_Vulkan, [0000016018E16400][00000160199A6BC0 49] Android_Vulkan_SM5, [0000016018E70A00][00000160199AAD40 49] Android_PowerVR_G6xxx, [0000016018DD6B00][00000160199AEEC0 49] Android_PowerVR_GT7xxx, [0000016018DA0600][00000160199B3040 49] Android_PowerVR_GE8xxx, [0000016018DD6300][00000160199B71C0 49] Android_PowerVR_GM9xxx, [0000016018DA3E00][00000160199BB340 49] Android_PowerVR_GM9xxx_Vulkan, [0000016018DD7C00][00000160199BF4C0 49] Android_TegraK1, [0000016018DA1000][00000160199C3640 49] Android_Unknown_Vulkan, [0000016018DD4200][00000160199C77C0 49] Lumin, [0000016018DA0700][00000160199CB940 49] Lumin_Desktop, [0000016018DD5100][0000016019987A80 49] HoloLens, 
+[2022.03.18-08.53.39:200][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.18-08.53.39:200][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.18-08.53.39:200][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.18-08.53.39:200][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.18-08.53.39:200][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.18-08.53.39:217][  0]LogNetVersion: ShootEmUp 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1933242009)
+[2022.03.18-08.53.39:789][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.18-08.53.39:832][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.042749 seconds
+[2022.03.18-08.53.39:837][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.03.18-08.53.39:837][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.03.18-08.53.39:837][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.18-08.53.40:147][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.18-08.53.40:151][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.18-08.53.40:320][  0]LogLinker: Warning: Failed to load '/Game/2DSideScrollerBP/2DSideScrollerOverview': Can't find file.
+[2022.03.18-08.53.40:320][  0]LogLinker: Warning: Failed to load '/Game/2DSideScrollerBP/2DSideScrollerOverview': Can't find file.
+[2022.03.18-08.53.40:320][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview_C'
+[2022.03.18-08.53.40:517][  0]SourceControl: Source control is disabled
+[2022.03.18-08.53.40:517][  0]SourceControl: Source control is disabled
+[2022.03.18-08.53.40:528][  0]SourceControl: Source control is disabled
+[2022.03.18-08.53.40:531][  0]SourceControl: Source control is disabled
+[2022.03.18-08.53.40:540][  0]SourceControl: Source control is disabled
+[2022.03.18-08.53.40:546][  0]LogUProjectInfo: Found projects:
+[2022.03.18-08.53.40:613][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.18-08.53.40:637][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.18-08.53.40:637][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.18-08.53.40:706][  0]LogCollectionManager: Loaded 0 collections in 0.001455 seconds
+[2022.03.18-08.53.40:732][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/ShootEmUp_Demo-main/Saved/Collections/' took 0.00s
+[2022.03.18-08.53.40:732][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/ShootEmUp_Demo-main/Content/Developers/astro/Collections/' took 0.00s
+[2022.03.18-08.53.40:732][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/ShootEmUp_Demo-main/Content/Collections/' took 0.00s
+[2022.03.18-08.53.40:732][  0]LogOcInput: OculusInput pre-init called
+[2022.03.18-08.53.40:748][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.03.18-08.53.40:748][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.03.18-08.53.40:796][  0]LogEngine: Initializing Engine...
+[2022.03.18-08.53.40:797][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.18-08.53.40:797][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.18-08.53.40:798][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.18-08.53.40:897][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.18-08.53.40:910][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.18-08.53.40:925][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.18-08.53.40:929][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.18-08.53.40:929][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.18-08.53.40:929][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.18-08.53.40:929][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.18-08.53.40:929][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.18-08.53.40:929][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.18-08.53.40:929][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.18-08.53.40:929][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.18-08.53.40:929][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.18-08.53.40:929][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.18-08.53.40:929][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.18-08.53.40:929][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.18-08.53.41:032][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.18-08.53.41:032][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.18-08.53.41:032][  0]LogAudioMixer: Display: 2: FrontCenter
+[2022.03.18-08.53.41:032][  0]LogAudioMixer: Display: 3: LowFrequency
+[2022.03.18-08.53.41:032][  0]LogAudioMixer: Display: 4: BackLeft
+[2022.03.18-08.53.41:032][  0]LogAudioMixer: Display: 5: BackRight
+[2022.03.18-08.53.41:032][  0]LogAudioMixer: Display: 6: SideLeft
+[2022.03.18-08.53.41:032][  0]LogAudioMixer: Display: 7: SideRight
+[2022.03.18-08.53.41:225][  0]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.03.18-08.53.41:228][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.18-08.53.41:230][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.18-08.53.41:230][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.18-08.53.41:231][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.18-08.53.41:231][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.18-08.53.41:231][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.03.18-08.53.41:232][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.18-08.53.41:232][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.18-08.53.41:232][  0]LogInit: FAudioDevice initialized.
+[2022.03.18-08.53.41:232][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.18-08.53.41:232][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.18-08.53.41:522][  0]LogDerivedDataCache: Saved boot cache 0.29s 77MB C:/Users/astro/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.03.18-08.53.41:522][  0]LogInit: Texture streaming: Enabled
+[2022.03.18-08.53.41:560][  0]LogInit: Transaction tracking system initialized
+[2022.03.18-08.53.41:583][  0]BlueprintLog: New page: Editor Load
+[2022.03.18-08.53.41:654][  0]LocalizationService: Localization service is disabled
+[2022.03.18-08.53.41:678][  0]TimingProfiler: Initialize
+[2022.03.18-08.53.41:678][  0]TimingProfiler: OnSessionChanged
+[2022.03.18-08.53.41:678][  0]LoadingProfiler: Initialize
+[2022.03.18-08.53.41:678][  0]LoadingProfiler: OnSessionChanged
+[2022.03.18-08.53.41:678][  0]NetworkingProfiler: Initialize
+[2022.03.18-08.53.41:678][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.18-08.53.41:678][  0]MemoryProfiler: Initialize
+[2022.03.18-08.53.41:678][  0]MemoryProfiler: OnSessionChanged
+[2022.03.18-08.53.41:812][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.18-08.53.41:812][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.18-08.53.41:965][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/ShootEmUp_Demo-main/Content/' took 0.00s
+[2022.03.18-08.53.42:195][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.18-08.53.42:197][  0]SourceControl: Source control is disabled
+[2022.03.18-08.53.42:197][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.760
+[2022.03.18-08.53.42:197][  0]Cmd: MAP LOAD FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.18-08.53.42:197][  0]LightingResults: New page: Lighting Build
+[2022.03.18-08.53.42:198][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.18-08.53.42:198][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-08.53.42:198][  0]MapCheck: New page: Map Check
+[2022.03.18-08.53.42:198][  0]LightingResults: New page: Lighting Build
+[2022.03.18-08.53.42:204][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.03.18-08.53.42:280][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.03.18-08.53.42:281][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.03.18-08.53.42:283][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.18-08.53.42:292][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.03.18-08.53.42:292][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.18-08.53.42:293][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.212ms to complete.
+[2022.03.18-08.53.42:293][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.095
+[2022.03.18-08.53.42:293][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.856
+[2022.03.18-08.53.42:512][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft Pinyin).
+[2022.03.18-08.53.42:580][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.18-08.53.42:585][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.18-08.53.42:591][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.18-08.53.42:597][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.18-08.53.42:610][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0090 seconds. Added 3601 classes and 859 folders.
+[2022.03.18-08.53.42:613][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.03.18-08.53.42:614][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.18-08.53.42:614][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:614][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.18-08.53.42:614][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2022.03.18-08.53.42:615][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.18-08.53.42:615][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:615][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.18-08.53.42:615][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.03.18-08.53.42:616][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.03.18-08.53.42:616][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:616][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.03.18-08.53.42:616][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.03.18-08.53.42:617][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.18-08.53.42:617][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:617][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.18-08.53.42:617][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2022.03.18-08.53.42:618][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.18-08.53.42:618][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:618][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.18-08.53.42:618][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.03.18-08.53.42:619][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.18-08.53.42:619][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:619][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.18-08.53.42:619][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.03.18-08.53.42:620][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.18-08.53.42:620][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:620][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.18-08.53.42:620][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.03.18-08.53.42:621][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.18-08.53.42:621][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:621][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.18-08.53.42:621][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.03.18-08.53.42:621][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.18-08.53.42:621][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:621][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.18-08.53.42:621][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.03.18-08.53.42:622][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.18-08.53.42:622][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:622][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.18-08.53.42:622][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.03.18-08.53.42:623][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.18-08.53.42:623][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:623][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.18-08.53.42:623][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.03.18-08.53.42:623][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.18-08.53.42:623][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:623][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.18-08.53.42:623][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.03.18-08.53.42:624][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.18-08.53.42:624][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:624][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.18-08.53.42:624][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.03.18-08.53.42:625][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.18-08.53.42:625][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:625][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.18-08.53.42:625][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.18-08.53.42:625][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.18-08.53.42:625][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:625][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.18-08.53.42:625][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.03.18-08.53.42:626][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.18-08.53.42:626][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:626][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.18-08.53.42:626][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.03.18-08.53.42:627][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.18-08.53.42:627][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:627][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.18-08.53.42:627][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.03.18-08.53.42:628][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.18-08.53.42:628][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:628][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.18-08.53.42:628][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.03.18-08.53.42:629][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.18-08.53.42:629][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:629][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.18-08.53.42:629][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.03.18-08.53.42:629][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.18-08.53.42:629][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:629][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.18-08.53.42:630][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.03.18-08.53.42:630][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.18-08.53.42:630][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:630][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.18-08.53.42:630][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.03.18-08.53.42:631][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.18-08.53.42:631][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:631][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.18-08.53.42:631][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.03.18-08.53.42:631][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.03.18-08.53.42:632][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:632][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.03.18-08.53.42:632][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.03.18-08.53.42:632][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.18-08.53.42:632][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:632][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.18-08.53.42:632][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.03.18-08.53.42:633][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.18-08.53.42:633][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:633][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.18-08.53.42:633][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.03.18-08.53.42:634][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.18-08.53.42:634][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.18-08.53.42:634][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.18-08.53.42:634][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.03.18-08.53.42:675][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.18-08.53.42:761][  0]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.18-08.53.42:764][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.18-08.53.42:766][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.18-08.53.42:843][  0]LogRenderer: Reallocating scene render targets to support 780x440 Format 10 NumSamples 1 (Frame:1).
+[2022.03.18-08.53.43:015][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.03.18-08.53.43:015][  0]LogLoad: (Engine Initialization) Total time: 10.58 seconds
+[2022.03.18-08.53.43:015][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.18-08.53.43:015][  0]LogInit: First time updating LLM stats...
+[2022.03.18-08.53.43:061][  0]LogAssetRegistry: Asset discovery search completed in 4.2128 seconds
+[2022.03.18-08.53.43:062][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.03.18-08.53.43:063][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.18-08.53.43:152][  4]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.18-08.55.01:923][ 91]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.18-08.55.01:947][ 91]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprints/Enemy1.Enemy1
+[2022.03.18-08.55.01:999][ 91]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.03.18-08.55.05:023][222]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.03.18-08.55.05:023][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-08.55.05:122][222]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprints/Enemy1.Enemy1
+[2022.03.18-08.55.05:496][222]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.18-08.55.09:077][429]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
+[2022.03.18-08.55.09:513][430]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.18-08.55.33:511][824]BlueprintLog: New page: Compile Enemy1
+[2022.03.18-08.55.33:578][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.03.18-08.55.33:597][824]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.18-08.55.34:185][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Enemy1" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/Enemy1.uasset" SILENT=true
+[2022.03.18-08.55.34:190][855]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/Enemy124C6E79A47142805C81A9BA50BFC6EE0.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/Enemy1.uasset'
+[2022.03.18-08.55.34:204][855]AssetCheck: New page: Asset Save: Enemy1
+[2022.03.18-08.55.34:204][855]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/Enemy1.Enemy1
+[2022.03.18-08.55.42:030][286]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.18-08.55.42:030][286]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.18-08.56.16:448][286]BlueprintLog: New page: Compile EnemyBase
+[2022.03.18-08.56.16:501][286]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.03.18-08.56.18:119][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset" SILENT=true
+[2022.03.18-08.56.18:138][371]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBase8EF1194F40C384AA9D8EB28E7555D1F6.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset'
+[2022.03.18-08.56.18:152][371]AssetCheck: New page: Asset Save: EnemyBase
+[2022.03.18-08.56.18:152][371]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
+[2022.03.18-08.56.19:148][428]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.18-08.56.19:153][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.18-08.56.19:153][428]PIE: New page: PIE session: Minimal_Default (Mar 19, 2022, 12:56:19 AM)
+[2022.03.18-08.56.19:154][428]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.18-08.56.19:155][428]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.18-08.56.19:156][428]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_Minimal_Default
+[2022.03.18-08.56.19:159][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003224s)
+[2022.03.18-08.56.19:160][428]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.03.18-08.56.19:160][428]LogPlayLevel: PIE: World Init took: (0.001215s)
+[2022.03.18-08.56.19:160][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/Minimal_Default.Minimal_Default to /Game/Assets/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004599s)
+[2022.03.18-08.56.19:186][428]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.03.18-08.56.19:188][428]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.18-08.56.19:188][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.18-08.56.19:188][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.18-08.56.19:188][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.18-08.56.19:188][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.18-08.56.19:188][428]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.18-08.56.19:188][428]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.18-08.56.19:188][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.18-08.56.19:188][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.18-08.56.19:189][428]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.18-08.56.19:189][428]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.18-08.56.19:195][428]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.18-08.56.19:195][428]LogAudioMixer: Display: 1: FrontRight
+[2022.03.18-08.56.19:195][428]LogAudioMixer: Display: 2: FrontCenter
+[2022.03.18-08.56.19:195][428]LogAudioMixer: Display: 3: LowFrequency
+[2022.03.18-08.56.19:195][428]LogAudioMixer: Display: 4: BackLeft
+[2022.03.18-08.56.19:195][428]LogAudioMixer: Display: 5: BackRight
+[2022.03.18-08.56.19:195][428]LogAudioMixer: Display: 6: SideLeft
+[2022.03.18-08.56.19:195][428]LogAudioMixer: Display: 7: SideRight
+[2022.03.18-08.56.19:210][428]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.03.18-08.56.19:211][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.18-08.56.19:211][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.18-08.56.19:211][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.18-08.56.19:211][428]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.18-08.56.19:211][428]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.18-08.56.19:211][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.03.18-08.56.19:225][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.18-08.56.19:225][428]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.18-08.56.19:225][428]LogInit: FAudioDevice initialized.
+[2022.03.18-08.56.19:225][428]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2022.03.18-08.56.19:334][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.18-08.56.19:334][428]LogLoad: Game class is 'BP_GameMode_C'
+[2022.03.18-08.56.19:336][428]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.03.18-16.56.19
+[2022.03.18-08.56.19:337][428]LogWorld: Bringing up level for play took: 0.001314
+[2022.03.18-08.56.19:337][428]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.03.18-08.56.19:346][428]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.03.18-08.56.19:348][428]PIE: Server logged in
+[2022.03.18-08.56.19:350][428]PIE: Play in editor total start time 0.198 seconds.
+[2022.03.18-08.56.19:370][429]LogRenderer: Reallocating scene render targets to support 1448x832 Format 10 NumSamples 1 (Frame:1).
+[2022.03.18-08.56.22:528][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.18-08.56.22:528][598]LogWorld: BeginTearingDown for /Game/Assets/Maps/UEDPIE_0_Minimal_Default
+[2022.03.18-08.56.22:528][598]LogSlate: Window 'ShootEmUp Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.18-08.56.22:535][598]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.03.18-08.56.22:535][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-08.56.22:545][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.18-08.56.22:550][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-08.56.22:584][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.18-08.56.22:585][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.18-08.56.22:631][598]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.03.18-08.56.22:648][599]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.03.18-08.56.35:690][372]BlueprintLog: New page: Compile EnemyBase
+[2022.03.18-08.56.35:759][372]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.03.18-08.56.36:331][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset" SILENT=true
+[2022.03.18-08.56.36:351][399]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBase812C490640EEB76D84073E944C66230D.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset'
+[2022.03.18-08.56.36:364][399]AssetCheck: New page: Asset Save: EnemyBase
+[2022.03.18-08.56.36:364][399]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
+[2022.03.18-08.56.48:740][137]BlueprintLog: New page: Compile Enemy1
+[2022.03.18-08.56.48:784][137]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.03.18-08.56.49:903][199]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.18-08.56.49:908][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.18-08.56.49:908][199]PIE: New page: PIE session: Minimal_Default (Mar 19, 2022, 12:56:49 AM)
+[2022.03.18-08.56.49:908][199]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_Minimal_Default
+[2022.03.18-08.56.49:912][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003357s)
+[2022.03.18-08.56.49:912][199]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.03.18-08.56.49:913][199]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2022.03.18-08.56.49:913][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/Minimal_Default.Minimal_Default to /Game/Assets/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004335s)
+[2022.03.18-08.56.49:938][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.03.18-08.56.49:939][199]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.18-08.56.49:939][199]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.18-08.56.49:939][199]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.18-08.56.49:939][199]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.18-08.56.49:939][199]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.18-08.56.49:939][199]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.18-08.56.49:939][199]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.18-08.56.49:939][199]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.18-08.56.49:939][199]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.18-08.56.49:939][199]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.18-08.56.49:939][199]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.18-08.56.49:944][199]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.18-08.56.49:944][199]LogAudioMixer: Display: 1: FrontRight
+[2022.03.18-08.56.49:944][199]LogAudioMixer: Display: 2: FrontCenter
+[2022.03.18-08.56.49:944][199]LogAudioMixer: Display: 3: LowFrequency
+[2022.03.18-08.56.49:944][199]LogAudioMixer: Display: 4: BackLeft
+[2022.03.18-08.56.49:944][199]LogAudioMixer: Display: 5: BackRight
+[2022.03.18-08.56.49:944][199]LogAudioMixer: Display: 6: SideLeft
+[2022.03.18-08.56.49:944][199]LogAudioMixer: Display: 7: SideRight
+[2022.03.18-08.56.49:957][199]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.03.18-08.56.49:958][199]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.18-08.56.49:958][199]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.18-08.56.49:958][199]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.18-08.56.49:958][199]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.18-08.56.49:958][199]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.18-08.56.49:958][199]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.03.18-08.56.49:972][199]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.18-08.56.49:972][199]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.18-08.56.49:972][199]LogInit: FAudioDevice initialized.
+[2022.03.18-08.56.49:972][199]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default'.
+[2022.03.18-08.56.50:072][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.18-08.56.50:072][199]LogLoad: Game class is 'BP_GameMode_C'
+[2022.03.18-08.56.50:074][199]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.03.18-16.56.50
+[2022.03.18-08.56.50:074][199]LogWorld: Bringing up level for play took: 0.001160
+[2022.03.18-08.56.50:074][199]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.03.18-08.56.50:077][199]PIE: Server logged in
+[2022.03.18-08.56.50:078][199]PIE: Play in editor total start time 0.17 seconds.
+[2022.03.18-08.56.56:157][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.18-08.56.56:157][562]LogWorld: BeginTearingDown for /Game/Assets/Maps/UEDPIE_0_Minimal_Default
+[2022.03.18-08.56.56:158][562]LogSlate: Window 'ShootEmUp Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.18-08.56.56:164][562]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.03.18-08.56.56:164][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-08.56.56:172][562]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.18-08.56.56:176][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-08.56.56:199][562]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.18-08.56.56:200][562]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.18-08.56.56:218][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.03.18-08.56.56:248][564]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.03.18-08.56.58:124][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Enemy1" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/Enemy1.uasset" SILENT=true
+[2022.03.18-08.56.58:128][670]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/Enemy15EF0664F46FD769AC1361CA04AA2F1AD.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/Enemy1.uasset'
+[2022.03.18-08.56.58:141][670]AssetCheck: New page: Asset Save: Enemy1
+[2022.03.18-08.56.58:141][670]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/Enemy1.Enemy1
+[2022.03.18-08.57.03:150][945]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.03.18-08.57.09:714][316]LogSlate: Window 'Project Settings' being destroyed
+[2022.03.18-08.57.09:720][316]LogSlate: Window 'Project Settings' being destroyed
+[2022.03.18-08.57.24:942][206]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.18-08.57.24:947][206]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.18-08.57.24:950][206]LogPlayLevel: [PlayLevel] Compiling EnemyBase before play...
+[2022.03.18-08.57.24:950][206]LogPlayLevel: [PlayLevel]   Compiling Enemy1 as a dependent...
+[2022.03.18-08.57.25:052][206]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.03.18-08.57.25:053][206]LogPlayLevel: PlayLevel: Blueprint regeneration took 106 ms (2 blueprints)
+[2022.03.18-08.57.25:053][206]PIE: New page: PIE session: Minimal_Default (Mar 19, 2022, 12:57:25 AM)
+[2022.03.18-08.57.25:054][206]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_Minimal_Default
+[2022.03.18-08.57.25:056][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002412s)
+[2022.03.18-08.57.25:057][206]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.03.18-08.57.25:057][206]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2022.03.18-08.57.25:057][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/Minimal_Default.Minimal_Default to /Game/Assets/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003420s)
+[2022.03.18-08.57.25:106][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.03.18-08.57.25:106][206]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.03.18-08.57.25:106][206]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.18-08.57.25:106][206]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.18-08.57.25:106][206]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.18-08.57.25:106][206]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.18-08.57.25:106][206]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.18-08.57.25:106][206]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.18-08.57.25:106][206]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.18-08.57.25:106][206]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.18-08.57.25:106][206]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.18-08.57.25:107][206]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.18-08.57.25:111][206]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.18-08.57.25:112][206]LogAudioMixer: Display: 1: FrontRight
+[2022.03.18-08.57.25:112][206]LogAudioMixer: Display: 2: FrontCenter
+[2022.03.18-08.57.25:112][206]LogAudioMixer: Display: 3: LowFrequency
+[2022.03.18-08.57.25:112][206]LogAudioMixer: Display: 4: BackLeft
+[2022.03.18-08.57.25:112][206]LogAudioMixer: Display: 5: BackRight
+[2022.03.18-08.57.25:112][206]LogAudioMixer: Display: 6: SideLeft
+[2022.03.18-08.57.25:112][206]LogAudioMixer: Display: 7: SideRight
+[2022.03.18-08.57.25:125][206]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.03.18-08.57.25:125][206]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.18-08.57.25:125][206]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.18-08.57.25:125][206]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.18-08.57.25:125][206]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.18-08.57.25:126][206]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.18-08.57.25:126][206]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.03.18-08.57.25:139][206]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.18-08.57.25:139][206]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.18-08.57.25:139][206]LogInit: FAudioDevice initialized.
+[2022.03.18-08.57.25:139][206]LogAudio: Display: Audio Device (ID: 4) registered with world 'Minimal_Default'.
+[2022.03.18-08.57.25:243][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.18-08.57.25:243][206]LogLoad: Game class is 'BP_GameMode_C'
+[2022.03.18-08.57.25:245][206]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.03.18-16.57.25
+[2022.03.18-08.57.25:245][206]LogWorld: Bringing up level for play took: 0.001239
+[2022.03.18-08.57.25:245][206]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.03.18-08.57.25:249][206]PIE: Server logged in
+[2022.03.18-08.57.25:250][206]PIE: Play in editor total start time 0.303 seconds.
+[2022.03.18-08.57.31:047][494]LogSlate: Window 'ShootEmUp Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.18-08.57.31:054][494]LogWorld: BeginTearingDown for /Game/Assets/Maps/UEDPIE_0_Minimal_Default
+[2022.03.18-08.57.31:054][494]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.03.18-08.57.31:054][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-08.57.31:061][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.18-08.57.31:065][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-08.57.31:088][494]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.18-08.57.31:088][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.18-08.57.31:089][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.18-08.57.31:108][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.03.18-08.57.31:155][497]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.03.18-08.57.37:193][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Enemy1" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/Enemy1.uasset" SILENT=true
+[2022.03.18-08.57.37:198][853]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/Enemy1DAC44B464C7D1062A75028A844069E16.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/Enemy1.uasset'
+[2022.03.18-08.57.37:211][853]AssetCheck: New page: Asset Save: Enemy1
+[2022.03.18-08.57.37:211][853]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/Enemy1.Enemy1
+[2022.03.18-08.58.01:280][267]BlueprintLog: New page: Compile EnemyBase
+[2022.03.18-08.58.01:330][267]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.03.18-08.58.01:819][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset" SILENT=true
+[2022.03.18-08.58.01:845][287]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBase2CFE903F4AEC0AEDEC00AD880EC9D833.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset'
+[2022.03.18-08.58.01:866][287]AssetCheck: New page: Asset Save: EnemyBase
+[2022.03.18-08.58.01:866][287]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
+[2022.03.18-08.58.02:780][339]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.18-08.58.02:786][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.18-08.58.02:786][339]PIE: New page: PIE session: Minimal_Default (Mar 19, 2022, 12:58:02 AM)
+[2022.03.18-08.58.02:786][339]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_Minimal_Default
+[2022.03.18-08.58.02:790][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003859s)
+[2022.03.18-08.58.02:791][339]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.03.18-08.58.02:791][339]LogPlayLevel: PIE: World Init took: (0.001103s)
+[2022.03.18-08.58.02:791][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/Minimal_Default.Minimal_Default to /Game/Assets/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005081s)
+[2022.03.18-08.58.02:817][339]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.03.18-08.58.02:818][339]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.18-08.58.02:818][339]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.18-08.58.02:818][339]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.18-08.58.02:818][339]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.18-08.58.02:818][339]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.18-08.58.02:818][339]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.18-08.58.02:818][339]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.18-08.58.02:818][339]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.18-08.58.02:818][339]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.18-08.58.02:818][339]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.18-08.58.02:818][339]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.18-08.58.02:823][339]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.18-08.58.02:823][339]LogAudioMixer: Display: 1: FrontRight
+[2022.03.18-08.58.02:823][339]LogAudioMixer: Display: 2: FrontCenter
+[2022.03.18-08.58.02:823][339]LogAudioMixer: Display: 3: LowFrequency
+[2022.03.18-08.58.02:823][339]LogAudioMixer: Display: 4: BackLeft
+[2022.03.18-08.58.02:823][339]LogAudioMixer: Display: 5: BackRight
+[2022.03.18-08.58.02:823][339]LogAudioMixer: Display: 6: SideLeft
+[2022.03.18-08.58.02:823][339]LogAudioMixer: Display: 7: SideRight
+[2022.03.18-08.58.02:837][339]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.03.18-08.58.02:837][339]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.18-08.58.02:837][339]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.18-08.58.02:837][339]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.18-08.58.02:838][339]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.18-08.58.02:838][339]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.18-08.58.02:838][339]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.03.18-08.58.02:852][339]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.18-08.58.02:852][339]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.18-08.58.02:852][339]LogInit: FAudioDevice initialized.
+[2022.03.18-08.58.02:852][339]LogAudio: Display: Audio Device (ID: 5) registered with world 'Minimal_Default'.
+[2022.03.18-08.58.02:949][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.18-08.58.02:949][339]LogLoad: Game class is 'BP_GameMode_C'
+[2022.03.18-08.58.02:951][339]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.03.18-16.58.02
+[2022.03.18-08.58.02:951][339]LogWorld: Bringing up level for play took: 0.001139
+[2022.03.18-08.58.02:951][339]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.03.18-08.58.02:955][339]PIE: Server logged in
+[2022.03.18-08.58.02:956][339]PIE: Play in editor total start time 0.17 seconds.
+[2022.03.18-08.58.07:784][628]LogSlate: Window 'ShootEmUp Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.18-08.58.07:793][628]LogWorld: BeginTearingDown for /Game/Assets/Maps/UEDPIE_0_Minimal_Default
+[2022.03.18-08.58.07:793][628]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.03.18-08.58.07:793][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-08.58.07:804][628]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.18-08.58.07:808][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-08.58.07:832][628]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.18-08.58.07:832][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.18-08.58.07:833][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.18-08.58.07:851][628]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.03.18-08.58.07:901][631]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.03.18-08.58.13:832][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Minimal_Default" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.18-08.58.13:857][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.03.18-08.58.13:868][975]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/Minimal_Default53C1809046D022C6A9B94E971E9A85CE.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Maps/Minimal_Default.umap'
+[2022.03.18-08.58.13:881][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Minimal_Default_BuiltData" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.03.18-08.58.13:886][975]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/Minimal_Default_BuiltDataD400985E418D624D28532CA8ECA8B365.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Maps/Minimal_Default_BuiltData.uasset'
+[2022.03.18-08.58.13:901][975]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.18-08.58.13:901][975]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.03.18-08.58.13:901][975]LogContentValidation: Display: Validating World /Game/Assets/Maps/Minimal_Default.Minimal_Default
