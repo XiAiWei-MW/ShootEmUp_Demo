@@ -1091,3 +1091,833 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.18-08.58.13:901][975]AssetCheck: New page: Asset Save: multiple assets
 [2022.03.18-08.58.13:901][975]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2022.03.18-08.58.13:901][975]LogContentValidation: Display: Validating World /Game/Assets/Maps/Minimal_Default.Minimal_Default
+[2022.03.18-09.01.14:410][ 17]LogEditorViewport: Clicking Background
+[2022.03.18-09.01.45:229][241]LogActorFactory: Actor Factory created Shape_Cube
+[2022.03.18-09.01.46:453][314]LogActorFactory: Actor Factory created Shape_Cube
+[2022.03.18-09.01.47:043][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube2)
+[2022.03.18-09.01.47:932][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube3)
+[2022.03.18-09.01.58:554][ 34]LogEditorViewport: Clicking Background
+[2022.03.18-09.02.03:888][347]LogActorFactory: Actor Factory created Shape_Cube
+[2022.03.18-09.02.05:105][420]LogActorFactory: Actor Factory created Shape_Cube
+[2022.03.18-09.02.15:318][ 30]Cmd: EDIT COPY
+[2022.03.18-09.02.15:702][ 53]Cmd: EDIT PASTE
+[2022.03.18-09.02.27:745][772]LogEditorViewport: Clicking Background
+[2022.03.18-09.02.30:959][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube5)
+[2022.03.18-09.02.32:168][ 36]Cmd: EDIT COPY
+[2022.03.18-09.02.32:435][ 52]Cmd: EDIT PASTE
+[2022.03.18-09.02.36:085][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube5)
+[2022.03.18-09.02.36:908][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube6)
+[2022.03.18-09.02.43:942][732]LogEditorViewport: Clicking Background
+[2022.03.18-09.02.44:704][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube3)
+[2022.03.18-09.02.56:996][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube2)
+[2022.03.18-09.02.58:325][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube3)
+[2022.03.18-09.02.59:634][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube6)
+[2022.03.18-09.03.03:683][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube5)
+[2022.03.18-09.03.06:432][ 73]LogEditorViewport: Clicking Background
+[2022.03.18-09.03.50:003][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube4)
+[2022.03.18-09.03.57:475][222]Cmd: EDIT COPY
+[2022.03.18-09.03.57:691][235]Cmd: EDIT PASTE
+[2022.03.18-09.04.03:564][585]LogEditorViewport: Clicking Background
+[2022.03.18-09.04.05:648][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube7)
+[2022.03.18-09.04.07:074][794]Cmd: EDIT COPY
+[2022.03.18-09.04.07:345][810]Cmd: EDIT PASTE
+[2022.03.18-09.04.10:243][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube7)
+[2022.03.18-09.04.10:770][ 12]Cmd: EDIT COPY
+[2022.03.18-09.04.14:572][240]LogEditorViewport: Clicking Background
+[2022.03.18-09.04.26:843][963]Cmd: EDIT COPY
+[2022.03.18-09.04.27:144][981]Cmd: EDIT PASTE
+[2022.03.18-09.04.32:592][306]LogEditorViewport: Clicking Background
+[2022.03.18-09.04.34:676][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube3)
+[2022.03.18-09.04.35:868][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube5)
+[2022.03.18-09.04.45:765][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube9)
+[2022.03.18-09.04.46:538][138]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Shape_Cube7)
+[2022.03.18-09.04.47:011][165]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Shape_Cube8)
+[2022.03.18-09.05.04:361][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube4)
+[2022.03.18-09.05.11:141][607]LogEditorViewport: Clicking Background
+[2022.03.18-09.05.11:889][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube)
+[2022.03.18-09.05.12:547][690]Cmd: EDIT COPY
+[2022.03.18-09.05.12:880][710]Cmd: EDIT PASTE
+[2022.03.18-09.05.17:054][959]LogEditorViewport: Clicking Background
+[2022.03.18-09.05.17:989][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube3)
+[2022.03.18-09.05.20:180][145]Cmd: EDIT COPY
+[2022.03.18-09.05.20:482][163]Cmd: EDIT PASTE
+[2022.03.18-09.05.23:406][337]LogEditorViewport: Clicking Background
+[2022.03.18-09.05.28:840][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube5)
+[2022.03.18-09.05.30:618][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube6)
+[2022.03.18-09.05.33:477][938]LogEditorViewport: Clicking Background
+[2022.03.18-09.05.37:543][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube3)
+[2022.03.18-09.05.38:370][230]Cmd: EDIT COPY
+[2022.03.18-09.05.38:604][244]Cmd: EDIT PASTE
+[2022.03.18-09.05.41:720][429]Cmd: EDIT COPY
+[2022.03.18-09.05.41:969][444]Cmd: EDIT PASTE
+[2022.03.18-09.05.45:284][641]Cmd: EDIT COPY
+[2022.03.18-09.05.45:634][662]Cmd: EDIT PASTE
+[2022.03.18-09.05.49:808][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube12)
+[2022.03.18-09.05.52:065][ 43]Cmd: EDIT COPY
+[2022.03.18-09.05.52:300][ 57]Cmd: EDIT PASTE
+[2022.03.18-09.05.54:930][212]Cmd: EDIT COPY
+[2022.03.18-09.05.55:782][263]Cmd: EDIT PASTE
+[2022.03.18-09.05.58:423][420]LogEditorViewport: Clicking Background
+[2022.03.18-09.06.04:273][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube16)
+[2022.03.18-09.06.04:732][797]Cmd: EDIT COPY
+[2022.03.18-09.06.04:998][813]Cmd: EDIT PASTE
+[2022.03.18-09.06.08:180][  2]LogEditorViewport: Clicking Background
+[2022.03.18-09.06.21:414][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube4)
+[2022.03.18-09.06.21:976][828]Cmd: EDIT COPY
+[2022.03.18-09.06.22:209][842]Cmd: EDIT PASTE
+[2022.03.18-09.06.27:977][186]Cmd: EDIT COPY
+[2022.03.18-09.06.28:211][200]Cmd: EDIT PASTE
+[2022.03.18-09.06.30:312][324]Cmd: EDIT COPY
+[2022.03.18-09.06.30:545][338]Cmd: EDIT PASTE
+[2022.03.18-09.06.33:719][527]Cmd: EDIT COPY
+[2022.03.18-09.06.33:987][543]Cmd: EDIT PASTE
+[2022.03.18-09.06.37:305][740]Cmd: EDIT COPY
+[2022.03.18-09.06.37:555][755]Cmd: EDIT PASTE
+[2022.03.18-09.06.41:079][965]LogEditorViewport: Clicking Background
+[2022.03.18-09.06.48:113][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Minimal_Default" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.18-09.06.48:142][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.03.18-09.06.48:161][382]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/Minimal_Default09C5985F4442D0DDD69B0DB1958DCE95.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Maps/Minimal_Default.umap'
+[2022.03.18-09.06.48:173][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Minimal_Default_BuiltData" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.03.18-09.06.48:178][382]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/Minimal_Default_BuiltData48F160C14CE5B2FEEF0DB5A13722D3BB.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Maps/Minimal_Default_BuiltData.uasset'
+[2022.03.18-09.06.48:193][382]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.18-09.06.48:193][382]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.03.18-09.06.48:193][382]LogContentValidation: Display: Validating World /Game/Assets/Maps/Minimal_Default.Minimal_Default
+[2022.03.18-09.06.49:433][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube17)
+[2022.03.18-09.06.50:674][530]Cmd: EDIT COPY
+[2022.03.18-09.06.50:941][546]Cmd: EDIT PASTE
+[2022.03.18-09.06.54:058][731]LogEditorViewport: Clicking Background
+[2022.03.18-09.06.56:792][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube18)
+[2022.03.18-09.06.57:237][920]Cmd: EDIT COPY
+[2022.03.18-09.06.57:503][936]Cmd: EDIT PASTE
+[2022.03.18-09.07.00:562][118]LogEditorViewport: Clicking Background
+[2022.03.18-09.07.09:178][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube15)
+[2022.03.18-09.07.10:006][683]Cmd: EDIT COPY
+[2022.03.18-09.07.10:306][701]Cmd: EDIT PASTE
+[2022.03.18-09.07.34:912][174]LogEditorViewport: Clicking Background
+[2022.03.18-09.07.35:659][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube25)
+[2022.03.18-09.07.36:468][266]Cmd: EDIT COPY
+[2022.03.18-09.07.36:734][282]Cmd: EDIT PASTE
+[2022.03.18-09.07.42:350][617]LogEditorViewport: Clicking Background
+[2022.03.18-09.07.43:100][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube26)
+[2022.03.18-09.07.43:826][704]Cmd: EDIT COPY
+[2022.03.18-09.07.44:075][719]Cmd: EDIT PASTE
+[2022.03.18-09.07.46:683][874]LogEditorViewport: Clicking Background
+[2022.03.18-09.07.47:317][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube27)
+[2022.03.18-09.07.47:609][928]Cmd: EDIT COPY
+[2022.03.18-09.07.47:892][945]Cmd: EDIT PASTE
+[2022.03.18-09.08.03:485][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube27)
+[2022.03.18-09.08.04:742][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube28)
+[2022.03.18-09.08.15:233][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube25)
+[2022.03.18-09.08.15:899][619]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Shape_Cube26)
+[2022.03.18-09.08.18:557][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube27)
+[2022.03.18-09.08.21:499][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube26)
+[2022.03.18-09.08.23:579][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube25)
+[2022.03.18-09.08.30:673][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube28)
+[2022.03.18-09.08.36:813][866]LogEditorViewport: Clicking Background
+[2022.03.18-09.08.46:080][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube28)
+[2022.03.18-09.08.46:956][473]Cmd: EDIT COPY
+[2022.03.18-09.08.47:206][488]Cmd: EDIT PASTE
+[2022.03.18-09.08.52:119][781]Cmd: EDIT COPY
+[2022.03.18-09.08.52:352][795]Cmd: EDIT PASTE
+[2022.03.18-09.08.55:587][987]Cmd: EDIT COPY
+[2022.03.18-09.08.55:844][  2]Cmd: EDIT PASTE
+[2022.03.18-09.08.58:777][176]Cmd: EDIT COPY
+[2022.03.18-09.08.59:045][192]Cmd: EDIT PASTE
+[2022.03.18-09.09.03:148][436]LogEditorViewport: Clicking Background
+[2022.03.18-09.09.10:832][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube32)
+[2022.03.18-09.09.11:489][934]Cmd: EDIT COPY
+[2022.03.18-09.09.11:773][951]Cmd: EDIT PASTE
+[2022.03.18-09.09.24:260][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube31)
+[2022.03.18-09.09.24:801][729]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Shape_Cube30)
+[2022.03.18-09.09.25:409][764]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Shape_Cube32)
+[2022.03.18-09.09.28:484][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.18-09.09.31:365][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube29)
+[2022.03.18-09.09.34:632][312]LogEditorViewport: Clicking Background
+[2022.03.18-09.09.51:283][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube33)
+[2022.03.18-09.09.52:075][357]Cmd: EDIT COPY
+[2022.03.18-09.09.53:259][428]Cmd: EDIT PASTE
+[2022.03.18-09.10.09:553][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube22)
+[2022.03.18-09.10.10:444][456]Cmd: EDIT COPY
+[2022.03.18-09.10.10:693][471]Cmd: EDIT PASTE
+[2022.03.18-09.10.15:310][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube19)
+[2022.03.18-09.10.15:934][782]Cmd: EDIT COPY
+[2022.03.18-09.10.16:185][797]Cmd: EDIT PASTE
+[2022.03.18-09.10.23:304][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube35)
+[2022.03.18-09.10.26:015][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube36)
+[2022.03.18-09.10.30:707][663]Cmd: TRANSACTION UNDO
+[2022.03.18-09.10.30:707][663]LogEditorTransaction: Undo Move Actors
+[2022.03.18-09.10.45:215][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube35)
+[2022.03.18-09.11.25:197][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube36)
+[2022.03.18-09.11.36:061][562]LogEditorViewport: Clicking Background
+[2022.03.18-09.11.42:911][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube29)
+[2022.03.18-09.11.48:534][308]Cmd: DELETE
+[2022.03.18-09.11.48:534][308]Cmd: ACTOR DELETE
+[2022.03.18-09.11.48:536][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.11.48:564][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.03.18-09.11.48:571][308]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.03.18-09.11.49:398][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube28)
+[2022.03.18-09.11.49:624][370]Cmd: DELETE
+[2022.03.18-09.11.49:624][370]Cmd: ACTOR DELETE
+[2022.03.18-09.11.49:626][370]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.11.49:649][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.03.18-09.11.49:650][370]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2022.03.18-09.12.14:467][857]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Shape_Cube30)
+[2022.03.18-09.12.24:986][969]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2022.03.18-09.12.25:072][969]LogStaticMesh: Building static mesh Enemy1...
+[2022.03.18-09.12.25:094][969]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Shapes/Enemy1.Enemy1
+[2022.03.18-09.12.27:050][ 52]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Shapes/Enemy1.Enemy1
+[2022.03.18-09.12.58:611][844]LogContentBrowser: Deferred new asset file creation: M_Basic_Wall_4
+[2022.03.18-09.12.58:846][844]LogContentBrowser: Creating deferred item: M_Basic_Wall_4
+[2022.03.18-09.12.59:985][913]LogContentBrowser: Attempting asset rename: M_Basic_Wall_4 -> M_Basic_Wall_4
+[2022.03.18-09.12.59:987][913]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall_4, compiling. 
+[2022.03.18-09.13.00:045][913]LogContentBrowser: End creating deferred item M_Basic_Wall_4
+[2022.03.18-09.13.00:055][914]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2022.03.18-09.13.00:055][914]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2022.03.18-09.13.00:055][914]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2022.03.18-09.13.00:055][914]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.03.18-09.13.00:055][914]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2022.03.18-09.13.00:055][914]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.03.18-09.13.00:055][914]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.03.18-09.13.00:481][934]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Materials/M_Basic_Wall_4.M_Basic_Wall_4
+[2022.03.18-09.13.00:483][934]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall_4, compiling. 
+[2022.03.18-09.13.00:589][934]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall_4, compiling. 
+[2022.03.18-09.13.00:601][934]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2022.03.18-09.13.00:604][934]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall_4, compiling. 
+[2022.03.18-09.13.00:630][934]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.18-09.13.02:075][ 13]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2022.03.18-09.13.02:476][ 37]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2022.03.18-09.13.02:612][ 45]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2022.03.18-09.13.02:826][ 58]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2022.03.18-09.13.02:943][ 65]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2022.03.18-09.13.02:976][ 67]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.03.18-09.13.03:244][ 83]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2022.03.18-09.13.03:378][ 91]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.03.18-09.13.03:477][ 97]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2022.03.18-09.13.03:494][ 98]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.03.18-09.13.03:569][102]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.03.18-09.13.03:587][103]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.03.18-09.13.03:999][125]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2022.03.18-09.13.04:033][127]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.03.18-09.13.04:133][133]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.03.18-09.13.04:574][159]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.03.18-09.13.04:575][159]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2022.03.18-09.13.04:575][159]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.03.18-09.13.04:575][159]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.18-09.13.04:575][159]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.18-09.13.16:182][837]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall_4, compiling. 
+[2022.03.18-09.13.16:191][837]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.03.18-09.13.16:192][837]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.03.18-09.13.16:192][837]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.03.18-09.13.16:192][837]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.03.18-09.13.16:192][837]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.03.18-09.13.16:192][837]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.03.18-09.13.16:192][837]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.03.18-09.13.16:192][837]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.03.18-09.13.16:193][837]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.18-09.13.16:862][877]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.03.18-09.13.16:879][878]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.03.18-09.13.17:123][892]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.03.18-09.13.17:345][905]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.03.18-09.13.17:361][906]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.03.18-09.13.17:413][909]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.03.18-09.13.17:413][909]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.03.18-09.13.18:749][989]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall_4, compiling. 
+[2022.03.18-09.13.18:760][989]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.18-09.13.18:778][990]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2022.03.18-09.13.18:778][990]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2022.03.18-09.13.18:778][990]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2022.03.18-09.13.18:778][990]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.03.18-09.13.18:778][990]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2022.03.18-09.13.18:778][990]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.03.18-09.13.18:778][990]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.03.18-09.13.18:778][990]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.03.18-09.13.19:492][ 33]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.03.18-09.13.19:558][ 37]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.03.18-09.13.19:793][ 51]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.03.18-09.13.19:994][ 63]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.03.18-09.13.20:043][ 66]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.03.18-09.13.20:043][ 66]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.03.18-09.13.20:092][ 69]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.03.18-09.13.20:287][ 80]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall_4, compiling. 
+[2022.03.18-09.13.20:304][ 80]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2022.03.18-09.13.20:308][ 80]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.18-09.13.20:479][ 90]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2022.03.18-09.13.20:671][101]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2022.03.18-09.13.20:671][101]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2022.03.18-09.13.20:700][102]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2022.03.18-09.13.20:796][108]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2022.03.18-09.13.20:923][115]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2022.03.18-09.13.20:970][118]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.03.18-09.13.21:485][149]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2022.03.18-09.13.21:552][153]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2022.03.18-09.13.21:563][153]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall_4, compiling. 
+[2022.03.18-09.13.21:585][153]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.18-09.13.21:597][153]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.18-09.13.21:666][157]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2022.03.18-09.13.21:835][167]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2022.03.18-09.13.21:918][171]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2022.03.18-09.13.22:004][176]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.03.18-09.13.22:085][181]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2022.03.18-09.13.22:228][186]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2022.03.18-09.13.22:673][209]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2022.03.18-09.13.22:674][209]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.03.18-09.13.22:892][221]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2022.03.18-09.13.22:957][225]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.03.18-09.13.23:057][231]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.03.18-09.13.23:058][231]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.03.18-09.13.23:331][247]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.03.18-09.13.23:455][254]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.03.18-09.13.23:595][260]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.03.18-09.13.24:066][287]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.03.18-09.13.24:066][287]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2022.03.18-09.13.24:066][287]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.03.18-09.13.24:066][287]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.18-09.13.24:066][287]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.18-09.13.26:743][447]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall_4, compiling. 
+[2022.03.18-09.13.26:752][447]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall_4, compiling. 
+[2022.03.18-09.13.26:774][449]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.03.18-09.13.26:774][449]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.03.18-09.13.26:774][449]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.03.18-09.13.26:774][449]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.03.18-09.13.26:774][449]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.03.18-09.13.26:774][449]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.03.18-09.13.26:774][449]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.03.18-09.13.26:774][449]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.03.18-09.13.27:613][499]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.03.18-09.13.27:613][499]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.03.18-09.13.27:869][514]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.03.18-09.13.28:778][564]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.03.18-09.13.28:778][564]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2022.03.18-09.13.28:778][564]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.03.18-09.13.28:778][564]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.18-09.13.28:778][564]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.18-09.13.33:573][844]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall_4, compiling. 
+[2022.03.18-09.13.33:583][844]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.18-09.13.33:586][844]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.03.18-09.13.33:586][844]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.03.18-09.13.33:586][844]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.03.18-09.13.33:586][844]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.03.18-09.13.33:586][844]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.03.18-09.13.33:586][844]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.03.18-09.13.33:586][844]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.03.18-09.13.33:586][844]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.03.18-09.13.34:267][884]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.03.18-09.13.34:318][887]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.03.18-09.13.34:634][906]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.03.18-09.13.34:818][917]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.03.18-09.13.34:818][917]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.03.18-09.13.34:886][921]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.03.18-09.13.34:902][922]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.03.18-09.13.35:959][985]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall_4, compiling. 
+[2022.03.18-09.13.35:969][985]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.18-09.13.35:972][985]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.03.18-09.13.35:972][985]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.03.18-09.13.35:972][985]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.03.18-09.13.35:972][985]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.03.18-09.13.35:972][985]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.03.18-09.13.35:972][985]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.03.18-09.13.35:973][985]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.03.18-09.13.35:973][985]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.03.18-09.13.36:675][ 26]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.03.18-09.13.36:727][ 29]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.03.18-09.13.37:008][ 46]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.03.18-09.13.37:158][ 55]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.03.18-09.13.37:209][ 58]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.03.18-09.13.37:258][ 61]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.03.18-09.13.37:258][ 61]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.03.18-09.13.37:682][ 86]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.03.18-09.13.37:682][ 86]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2022.03.18-09.13.37:682][ 86]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.03.18-09.13.37:682][ 86]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.18-09.13.37:682][ 86]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.18-09.13.38:316][124]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall_4, compiling. 
+[2022.03.18-09.13.38:329][124]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.03.18-09.13.38:329][124]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.03.18-09.13.38:329][124]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.03.18-09.13.38:329][124]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.03.18-09.13.38:329][124]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.03.18-09.13.38:329][124]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.03.18-09.13.38:329][124]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.03.18-09.13.38:330][124]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.03.18-09.13.38:331][124]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.18-09.13.38:338][124]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.18-09.13.39:029][165]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.03.18-09.13.39:045][166]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.03.18-09.13.39:358][183]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.03.18-09.13.39:542][194]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.03.18-09.13.39:573][196]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.03.18-09.13.39:606][198]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.03.18-09.13.39:624][199]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.03.18-09.13.40:159][227]LogMaterialEditor: Saving and Compiling material M_Basic_Wall_4
+[2022.03.18-09.13.40:700][227]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall_4, compiling. 
+[2022.03.18-09.13.40:798][227]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.03.18-09.13.40:798][227]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.03.18-09.13.40:798][227]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.03.18-09.13.40:798][227]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.03.18-09.13.40:798][227]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.03.18-09.13.40:798][227]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.03.18-09.13.40:798][227]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.03.18-09.13.40:798][227]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.03.18-09.13.40:837][227]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall_4, compiling. 
+[2022.03.18-09.13.41:059][227]LogUObjectHash: Compacting FUObjectHashTables data took  16.97ms
+[2022.03.18-09.13.41:071][227]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.18-09.13.41:637][227]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2022.03.18-09.13.41:637][227]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 25
+[2022.03.18-09.13.41:637][227]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2022.03.18-09.13.42:195][227]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 23
+[2022.03.18-09.13.42:195][227]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2022.03.18-09.13.42:195][227]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2022.03.18-09.13.42:195][227]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2022.03.18-09.13.42:195][227]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2022.03.18-09.13.42:195][227]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2022.03.18-09.13.42:195][227]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2022.03.18-09.13.42:250][227]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2022.03.18-09.13.42:251][227]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2022.03.18-09.13.42:260][227]TextureStreamingBuild: Display: Compiling optional shaders took 1.199 seconds.
+[2022.03.18-09.13.42:360][227]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.03.18-09.13.42:360][227]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2022.03.18-09.13.43:079][227]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2022.03.18-09.13.44:194][227]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2022.03.18-09.13.44:194][227]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.03.18-09.13.44:194][227]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.03.18-09.13.44:492][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/M_Basic_Wall_4" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Materials/M_Basic_Wall_4.uasset" SILENT=true
+[2022.03.18-09.13.44:498][227]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/M_Basic_Wall_4009518A54CA5CECFC820A899EDAA13B0.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Materials/M_Basic_Wall_4.uasset'
+[2022.03.18-09.13.44:546][227]AssetCheck: New page: Asset Save: M_Basic_Wall_4
+[2022.03.18-09.13.44:546][227]LogContentValidation: Display: Validating Material /Game/Assets/Materials/M_Basic_Wall_4.M_Basic_Wall_4
+[2022.03.18-09.13.44:552][227]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.03.18-09.13.44:552][227]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2022.03.18-09.13.44:552][227]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.03.18-09.13.44:552][227]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.18-09.13.44:552][227]MaterialEditorStats: Texture samplers: 3/16
+[2022.03.18-09.18.00:634][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Shapes/Enemy1" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Shapes/Enemy1.uasset" SILENT=true
+[2022.03.18-09.18.00:645][117]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/Enemy198B7FB5C4DB1DF1934ED7688DCFA2F7C.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Shapes/Enemy1.uasset'
+[2022.03.18-09.18.00:660][117]AssetCheck: New page: Asset Save: Enemy1
+[2022.03.18-09.18.00:660][117]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Shapes/Enemy1.Enemy1
+[2022.03.18-09.18.11:690][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Shapes/Enemy1" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Shapes/Enemy1.uasset" SILENT=true
+[2022.03.18-09.18.11:698][761]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/Enemy18E2561FF4944CFC72BCC9991F1390846.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Shapes/Enemy1.uasset'
+[2022.03.18-09.18.11:712][761]AssetCheck: New page: Asset Save: Enemy1
+[2022.03.18-09.18.11:712][761]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Shapes/Enemy1.Enemy1
+[2022.03.18-09.18.13:018][836]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.03.18-09.18.13:018][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-09.18.13:795][876]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.03.18-09.18.13:795][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-09.18.16:565][ 33]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.03.18-09.18.16:566][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-09.18.23:894][450]BlueprintLog: New page: Compile Enemy1
+[2022.03.18-09.18.23:941][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.03.18-09.18.24:448][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Enemy1" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/Enemy1.uasset" SILENT=true
+[2022.03.18-09.18.24:453][471]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/Enemy1433050AE4DCAE730049DE986BC25A390.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/Enemy1.uasset'
+[2022.03.18-09.18.24:478][471]AssetCheck: New page: Asset Save: Enemy1
+[2022.03.18-09.18.24:478][471]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/Enemy1.Enemy1
+[2022.03.18-09.18.25:344][520]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.18-09.18.25:349][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.18-09.18.25:349][520]PIE: New page: PIE session: Minimal_Default (Mar 19, 2022, 1:18:25 AM)
+[2022.03.18-09.18.25:349][520]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_Minimal_Default
+[2022.03.18-09.18.25:353][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003553s)
+[2022.03.18-09.18.25:353][520]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.03.18-09.18.25:354][520]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2022.03.18-09.18.25:354][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/Minimal_Default.Minimal_Default to /Game/Assets/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004596s)
+[2022.03.18-09.18.25:377][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.03.18-09.18.25:378][520]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.03.18-09.18.25:378][520]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.18-09.18.25:378][520]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.18-09.18.25:378][520]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.18-09.18.25:378][520]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.18-09.18.25:378][520]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.18-09.18.25:378][520]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.18-09.18.25:378][520]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.18-09.18.25:378][520]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.18-09.18.25:378][520]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.18-09.18.25:378][520]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.18-09.18.25:383][520]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.18-09.18.25:383][520]LogAudioMixer: Display: 1: FrontRight
+[2022.03.18-09.18.25:383][520]LogAudioMixer: Display: 2: FrontCenter
+[2022.03.18-09.18.25:383][520]LogAudioMixer: Display: 3: LowFrequency
+[2022.03.18-09.18.25:383][520]LogAudioMixer: Display: 4: BackLeft
+[2022.03.18-09.18.25:383][520]LogAudioMixer: Display: 5: BackRight
+[2022.03.18-09.18.25:383][520]LogAudioMixer: Display: 6: SideLeft
+[2022.03.18-09.18.25:383][520]LogAudioMixer: Display: 7: SideRight
+[2022.03.18-09.18.25:397][520]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.03.18-09.18.25:398][520]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.18-09.18.25:398][520]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.18-09.18.25:398][520]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.18-09.18.25:398][520]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.18-09.18.25:398][520]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.18-09.18.25:398][520]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.03.18-09.18.25:412][520]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.18-09.18.25:412][520]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.18-09.18.25:412][520]LogInit: FAudioDevice initialized.
+[2022.03.18-09.18.25:412][520]LogAudio: Display: Audio Device (ID: 6) registered with world 'Minimal_Default'.
+[2022.03.18-09.18.25:513][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.18-09.18.25:513][520]LogLoad: Game class is 'BP_GameMode_C'
+[2022.03.18-09.18.25:516][520]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.03.18-17.18.25
+[2022.03.18-09.18.25:516][520]LogWorld: Bringing up level for play took: 0.002036
+[2022.03.18-09.18.25:516][520]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.03.18-09.18.25:519][520]PIE: Server logged in
+[2022.03.18-09.18.25:520][520]PIE: Play in editor total start time 0.171 seconds.
+[2022.03.18-09.18.36:017][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.18-09.18.36:017][146]LogWorld: BeginTearingDown for /Game/Assets/Maps/UEDPIE_0_Minimal_Default
+[2022.03.18-09.18.36:017][146]LogSlate: Window 'ShootEmUp Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.18-09.18.36:024][146]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.03.18-09.18.36:024][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-09.18.36:036][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.18-09.18.36:056][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-09.18.36:078][146]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.18-09.18.36:078][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.18-09.18.36:079][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.18-09.18.36:097][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.03.18-09.18.36:110][147]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.03.18-09.18.49:177][917]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
+[2022.03.18-09.19.01:605][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset" SILENT=true
+[2022.03.18-09.19.01:625][612]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBase9966E8AB463F0B3AF5D7EDA55C6021B8.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset'
+[2022.03.18-09.19.01:641][612]AssetCheck: New page: Asset Save: EnemyBase
+[2022.03.18-09.19.01:641][612]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
+[2022.03.18-09.19.02:499][660]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.18-09.19.02:504][660]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.03.18-09.19.02:506][660]LogPlayLevel: [PlayLevel] Compiling EnemyBase before play...
+[2022.03.18-09.19.02:506][660]LogPlayLevel: [PlayLevel]   Compiling Enemy1 as a dependent...
+[2022.03.18-09.19.02:568][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2022.03.18-09.19.02:570][660]LogPlayLevel: PlayLevel: Blueprint regeneration took 65 ms (2 blueprints)
+[2022.03.18-09.19.02:570][660]PIE: New page: PIE session: Minimal_Default (Mar 19, 2022, 1:19:02 AM)
+[2022.03.18-09.19.02:570][660]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_Minimal_Default
+[2022.03.18-09.19.02:573][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003451s)
+[2022.03.18-09.19.02:574][660]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.03.18-09.19.02:574][660]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2022.03.18-09.19.02:574][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/Minimal_Default.Minimal_Default to /Game/Assets/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004419s)
+[2022.03.18-09.19.02:602][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.03.18-09.19.02:602][660]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.03.18-09.19.02:603][660]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.18-09.19.02:603][660]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.18-09.19.02:603][660]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.18-09.19.02:603][660]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.18-09.19.02:603][660]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.18-09.19.02:603][660]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.18-09.19.02:603][660]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.18-09.19.02:603][660]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.18-09.19.02:603][660]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.18-09.19.02:603][660]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.18-09.19.02:607][660]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.18-09.19.02:607][660]LogAudioMixer: Display: 1: FrontRight
+[2022.03.18-09.19.02:607][660]LogAudioMixer: Display: 2: FrontCenter
+[2022.03.18-09.19.02:607][660]LogAudioMixer: Display: 3: LowFrequency
+[2022.03.18-09.19.02:607][660]LogAudioMixer: Display: 4: BackLeft
+[2022.03.18-09.19.02:607][660]LogAudioMixer: Display: 5: BackRight
+[2022.03.18-09.19.02:607][660]LogAudioMixer: Display: 6: SideLeft
+[2022.03.18-09.19.02:607][660]LogAudioMixer: Display: 7: SideRight
+[2022.03.18-09.19.02:622][660]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.03.18-09.19.02:622][660]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.18-09.19.02:622][660]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.18-09.19.02:622][660]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.18-09.19.02:622][660]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.18-09.19.02:622][660]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.18-09.19.02:622][660]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.03.18-09.19.02:636][660]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.18-09.19.02:636][660]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.18-09.19.02:636][660]LogInit: FAudioDevice initialized.
+[2022.03.18-09.19.02:636][660]LogAudio: Display: Audio Device (ID: 7) registered with world 'Minimal_Default'.
+[2022.03.18-09.19.02:735][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.18-09.19.02:735][660]LogLoad: Game class is 'BP_GameMode_C'
+[2022.03.18-09.19.02:738][660]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.03.18-17.19.02
+[2022.03.18-09.19.02:738][660]LogWorld: Bringing up level for play took: 0.002517
+[2022.03.18-09.19.02:738][660]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.03.18-09.19.02:741][660]PIE: Server logged in
+[2022.03.18-09.19.02:742][660]PIE: Play in editor total start time 0.238 seconds.
+[2022.03.18-09.19.06:068][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.18-09.19.06:068][855]LogWorld: BeginTearingDown for /Game/Assets/Maps/UEDPIE_0_Minimal_Default
+[2022.03.18-09.19.06:068][855]LogSlate: Window 'ShootEmUp Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.18-09.19.06:074][855]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.03.18-09.19.06:075][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-09.19.06:083][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.18-09.19.06:102][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-09.19.06:128][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.18-09.19.06:129][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.18-09.19.06:147][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.03.18-09.19.06:172][856]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.03.18-09.19.08:653][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/EnemyBase" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset" SILENT=true
+[2022.03.18-09.19.08:675][  0]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/EnemyBase5A2AEC58484D11BC9119F69277F16341.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Blueprints/EnemyBase.uasset'
+[2022.03.18-09.19.08:688][  0]AssetCheck: New page: Asset Save: EnemyBase
+[2022.03.18-09.19.08:688][  0]LogContentValidation: Display: Validating Blueprint /Game/Assets/Blueprints/EnemyBase.EnemyBase
+[2022.03.18-09.19.17:598][495]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Shape_Cube31)
+[2022.03.18-09.19.27:826][ 89]Cmd: DELETE
+[2022.03.18-09.19.27:826][ 89]Cmd: ACTOR DELETE
+[2022.03.18-09.19.27:832][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:832][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:833][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:833][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:833][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:834][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:834][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:834][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:835][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:835][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:835][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:836][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:836][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:836][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:836][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:838][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:838][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:839][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:839][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:839][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:840][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:840][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:840][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:841][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:841][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:841][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:842][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:842][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:842][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:843][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:843][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:843][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:843][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:844][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:844][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:844][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.18-09.19.27:873][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.03.18-09.19.27:874][ 89]LogEditorActor: Deleted 36 Actors (0.047 secs)
+[2022.03.18-09.19.36:095][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Minimal_Default" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.18-09.19.36:122][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.03.18-09.19.36:132][576]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/Minimal_Default5CA3B6CB498A12F56095099706A90179.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Maps/Minimal_Default.umap'
+[2022.03.18-09.19.36:145][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Minimal_Default_BuiltData" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.03.18-09.19.36:150][576]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/Minimal_Default_BuiltData58E6B5C94887244F993AEA9447370C16.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Maps/Minimal_Default_BuiltData.uasset'
+[2022.03.18-09.19.36:162][576]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.18-09.19.36:163][576]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.03.18-09.19.36:163][576]LogContentValidation: Display: Validating World /Game/Assets/Maps/Minimal_Default.Minimal_Default
+[2022.03.18-09.19.39:809][788]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Materials/M_Basic_Wall_4.M_Basic_Wall_4
+[2022.03.18-09.19.39:810][788]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.03.18-09.19.39:859][788]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.03.18-09.19.39:867][788]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.03.18-09.19.39:883][788]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.18-09.19.39:890][788]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.03.18-09.19.39:890][788]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.03.18-09.19.39:890][788]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.03.18-09.19.39:890][788]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.03.18-09.19.39:890][788]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.03.18-09.19.39:890][788]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.03.18-09.19.39:890][788]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.03.18-09.19.39:890][788]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.03.18-09.19.40:917][839]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2022.03.18-09.19.40:965][842]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.03.18-09.19.41:217][857]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.03.18-09.19.41:401][868]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.03.18-09.19.41:401][868]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.03.18-09.19.41:468][872]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.03.18-09.19.41:517][875]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.03.18-09.19.41:960][895]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.03.18-09.19.41:960][895]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2022.03.18-09.19.41:960][895]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.03.18-09.19.41:960][895]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.18-09.19.41:960][895]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.18-09.19.47:151][206]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.03.18-09.19.47:159][206]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.03.18-09.19.47:197][209]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.03.18-09.19.47:197][209]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.03.18-09.19.47:197][209]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.03.18-09.19.47:197][209]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.03.18-09.19.47:197][209]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.03.18-09.19.47:197][209]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.03.18-09.19.47:197][209]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.03.18-09.19.47:197][209]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.03.18-09.19.47:775][243]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.03.18-09.19.47:797][244]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.03.18-09.19.48:041][259]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.03.18-09.19.48:517][287]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.03.18-09.19.48:517][287]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2022.03.18-09.19.48:517][287]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.03.18-09.19.48:517][287]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.18-09.19.48:517][287]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.18-09.19.53:948][601]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.03.18-09.19.53:958][601]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.03.18-09.19.53:958][601]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.03.18-09.19.53:958][601]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.03.18-09.19.53:958][601]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.03.18-09.19.53:958][601]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.03.18-09.19.53:958][601]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.03.18-09.19.53:958][601]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.03.18-09.19.53:958][601]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.03.18-09.19.53:960][601]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.18-09.19.54:568][638]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.03.18-09.19.54:634][642]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.03.18-09.19.54:885][657]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.03.18-09.19.55:068][668]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.03.18-09.19.55:118][671]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.03.18-09.19.55:150][673]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.03.18-09.19.55:150][673]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.03.18-09.19.55:610][700]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.03.18-09.19.55:610][700]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2022.03.18-09.19.55:610][700]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.03.18-09.19.55:610][700]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.18-09.19.55:610][700]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.18-09.20.01:637][ 53]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.03.18-09.20.01:651][ 53]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.18-09.20.01:655][ 53]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.03.18-09.20.01:655][ 53]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.03.18-09.20.01:655][ 53]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.03.18-09.20.01:655][ 53]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.03.18-09.20.01:655][ 53]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.03.18-09.20.01:655][ 53]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.03.18-09.20.01:655][ 53]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.03.18-09.20.01:655][ 53]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.03.18-09.20.02:272][ 90]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.03.18-09.20.02:288][ 91]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.03.18-09.20.02:542][106]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.03.18-09.20.02:724][116]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.03.18-09.20.02:754][118]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.03.18-09.20.02:821][122]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.03.18-09.20.02:836][123]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.03.18-09.20.03:780][179]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.03.18-09.20.03:792][179]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.03.18-09.20.03:792][179]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.03.18-09.20.03:792][179]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.03.18-09.20.03:792][179]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.03.18-09.20.03:792][179]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.03.18-09.20.03:792][179]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.03.18-09.20.03:793][179]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.03.18-09.20.03:793][179]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.03.18-09.20.03:794][179]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.18-09.20.04:441][217]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.03.18-09.20.04:476][219]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.03.18-09.20.04:707][233]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.03.18-09.20.04:924][246]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.03.18-09.20.04:940][247]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.03.18-09.20.04:990][250]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.03.18-09.20.05:022][252]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.03.18-09.20.05:503][279]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.03.18-09.20.05:503][279]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2022.03.18-09.20.05:503][279]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.03.18-09.20.05:503][279]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.18-09.20.05:503][279]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.18-09.20.06:496][339]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.03.18-09.20.06:509][339]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.03.18-09.20.06:509][339]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.03.18-09.20.06:509][339]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.03.18-09.20.06:509][339]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.03.18-09.20.06:509][339]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.03.18-09.20.06:509][339]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.03.18-09.20.06:509][339]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.03.18-09.20.06:509][339]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.03.18-09.20.06:511][339]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.03.18-09.20.06:520][339]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.18-09.20.07:264][384]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.03.18-09.20.07:265][384]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.03.18-09.20.07:542][399]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.03.18-09.20.07:650][406]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.03.18-09.20.07:851][418]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.03.18-09.20.07:851][418]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.03.18-09.20.07:851][418]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.03.18-09.20.08:312][443]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.03.18-09.20.08:312][443]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2022.03.18-09.20.08:313][443]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.03.18-09.20.08:313][443]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.18-09.20.08:313][443]MaterialEditorStats: Texture samplers: 2/16
+[2022.03.18-09.20.08:811][473]LogMaterialEditor: Saving and Compiling material M_Basic_Wall_4
+[2022.03.18-09.20.09:348][473]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2022.03.18-09.20.09:435][473]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2022.03.18-09.20.09:435][473]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.03.18-09.20.09:435][473]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.03.18-09.20.09:435][473]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.03.18-09.20.09:435][473]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.03.18-09.20.09:435][473]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.03.18-09.20.09:435][473]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.03.18-09.20.09:435][473]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.03.18-09.20.09:455][473]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall_4, compiling. 
+[2022.03.18-09.20.09:547][473]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2022.03.18-09.20.09:556][473]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.03.18-09.20.10:121][473]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2022.03.18-09.20.10:121][473]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 25
+[2022.03.18-09.20.10:678][473]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2022.03.18-09.20.10:678][473]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2022.03.18-09.20.10:678][473]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2022.03.18-09.20.10:678][473]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2022.03.18-09.20.10:678][473]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2022.03.18-09.20.10:678][473]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2022.03.18-09.20.10:678][473]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2022.03.18-09.20.10:678][473]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2022.03.18-09.20.10:942][473]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.03.18-09.20.10:942][473]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.03.18-09.20.10:947][473]TextureStreamingBuild: Display: Compiling optional shaders took 1.399 seconds.
+[2022.03.18-09.20.10:993][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.03.18-09.20.11:106][473]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.03.18-09.20.11:695][473]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.03.18-09.20.11:695][473]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2022.03.18-09.20.11:695][473]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.03.18-09.20.12:254][473]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.03.18-09.20.13:215][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/M_Basic_Wall_4" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Materials/M_Basic_Wall_4.uasset" SILENT=true
+[2022.03.18-09.20.13:221][473]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/M_Basic_Wall_4F1FC83DE481D4D4893AB7BADCC229AED.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Materials/M_Basic_Wall_4.uasset'
+[2022.03.18-09.20.13:267][473]AssetCheck: New page: Asset Save: M_Basic_Wall_4
+[2022.03.18-09.20.13:267][473]LogContentValidation: Display: Validating Material /Game/Assets/Materials/M_Basic_Wall_4.M_Basic_Wall_4
+[2022.03.18-09.20.13:269][473]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.03.18-09.20.13:269][473]MaterialEditorStats: Base pass shader with Surface Lightmap: 148 instructions
+[2022.03.18-09.20.13:269][473]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.03.18-09.20.13:269][473]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.03.18-09.20.13:269][473]MaterialEditorStats: Texture samplers: 3/16
+[2022.03.18-09.20.17:451][711]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.18-09.20.17:457][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.18-09.20.17:457][711]PIE: New page: PIE session: Minimal_Default (Mar 19, 2022, 1:20:17 AM)
+[2022.03.18-09.20.17:457][711]LogPlayLevel: Creating play world package: /Game/Assets/Maps/UEDPIE_0_Minimal_Default
+[2022.03.18-09.20.17:462][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004525s)
+[2022.03.18-09.20.17:463][711]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.03.18-09.20.17:463][711]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2022.03.18-09.20.17:463][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Maps/Minimal_Default.Minimal_Default to /Game/Assets/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005818s)
+[2022.03.18-09.20.17:494][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.03.18-09.20.17:495][711]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.03.18-09.20.17:495][711]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.18-09.20.17:495][711]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.18-09.20.17:495][711]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.18-09.20.17:495][711]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.18-09.20.17:495][711]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.18-09.20.17:495][711]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.18-09.20.17:495][711]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.18-09.20.17:495][711]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.18-09.20.17:496][711]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.18-09.20.17:496][711]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.18-09.20.17:501][711]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.18-09.20.17:501][711]LogAudioMixer: Display: 1: FrontRight
+[2022.03.18-09.20.17:501][711]LogAudioMixer: Display: 2: FrontCenter
+[2022.03.18-09.20.17:501][711]LogAudioMixer: Display: 3: LowFrequency
+[2022.03.18-09.20.17:501][711]LogAudioMixer: Display: 4: BackLeft
+[2022.03.18-09.20.17:501][711]LogAudioMixer: Display: 5: BackRight
+[2022.03.18-09.20.17:501][711]LogAudioMixer: Display: 6: SideLeft
+[2022.03.18-09.20.17:501][711]LogAudioMixer: Display: 7: SideRight
+[2022.03.18-09.20.17:515][711]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2022.03.18-09.20.17:515][711]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.18-09.20.17:515][711]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.18-09.20.17:515][711]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.18-09.20.17:516][711]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.18-09.20.17:516][711]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.18-09.20.17:516][711]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.03.18-09.20.17:531][711]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.18-09.20.17:531][711]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.18-09.20.17:531][711]LogInit: FAudioDevice initialized.
+[2022.03.18-09.20.17:531][711]LogAudio: Display: Audio Device (ID: 8) registered with world 'Minimal_Default'.
+[2022.03.18-09.20.17:539][711]LogLoad: Game class is 'BP_GameMode_C'
+[2022.03.18-09.20.17:540][711]LogWorld: Bringing World /Game/Assets/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2022.03.18-17.20.17
+[2022.03.18-09.20.17:541][711]LogWorld: Bringing up level for play took: 0.000768
+[2022.03.18-09.20.17:541][711]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.03.18-09.20.17:543][711]PIE: Server logged in
+[2022.03.18-09.20.17:544][711]PIE: Play in editor total start time 0.087 seconds.
+[2022.03.18-09.20.23:866][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.18-09.20.23:866][ 87]LogWorld: BeginTearingDown for /Game/Assets/Maps/UEDPIE_0_Minimal_Default
+[2022.03.18-09.20.23:866][ 87]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.03.18-09.20.23:868][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-09.20.23:876][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.18-09.20.23:881][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.18-09.20.23:907][ 87]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.18-09.20.23:907][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.18-09.20.23:908][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.18-09.20.23:923][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.18-09.20.23:927][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.03.18-09.20.23:948][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.03.18-09.20.26:878][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Minimal_Default" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.18-09.20.26:906][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.03.18-09.20.26:915][258]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/Minimal_Default3621BB594C61E026F3849CB12DFC3E41.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Maps/Minimal_Default.umap'
+[2022.03.18-09.20.26:927][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Minimal_Default_BuiltData" FILE="E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.03.18-09.20.26:932][258]LogSavePackage: Moving 'E:/Unreal/ShootEmUp_Demo-main/Saved/Minimal_Default_BuiltData5FE4F0A44B891DBA67CA2CBBDD0913B4.tmp' to 'E:/Unreal/ShootEmUp_Demo-main/Content/Assets/Maps/Minimal_Default_BuiltData.uasset'
+[2022.03.18-09.20.26:946][258]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.18-09.20.26:947][258]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.03.18-09.20.26:947][258]LogContentValidation: Display: Validating World /Game/Assets/Maps/Minimal_Default.Minimal_Default
+[2022.03.18-09.20.28:167][331]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.03.18-09.20.28:167][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
