@@ -998,3 +998,27 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.23-04.34.04:131][805]LogSlate: Window 'Asset Report' being destroyed
 [2022.06.23-04.34.37:719][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
 [2022.06.23-04.34.48:412][691]LogSlate: Window 'Asset Report' being destroyed
+[2022.06.23-05.46.16:270][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.06.23-05.46.16:276][796]LogSavePackage: Moving 'C:/Users/LeiXiaoYun/Documents/Unreal Projects/ShootEmUp/Saved/Minimal_Default0D163C8B46A5A5D3BC6E279502A26308.tmp' to 'C:/Users/LeiXiaoYun/Documents/Unreal Projects/ShootEmUp/Content/Assets/Maps/Minimal_Default.umap'
+[2022.06.23-05.46.16:283][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Maps/Minimal_Default_BuiltData" FILE="C:/Users/LeiXiaoYun/Documents/Unreal Projects/ShootEmUp/Content/Assets/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2022.06.23-05.46.16:289][796]LogSavePackage: Moving 'C:/Users/LeiXiaoYun/Documents/Unreal Projects/ShootEmUp/Saved/Minimal_Default_BuiltData1CEE21134DFC019D150FB3897C038407.tmp' to 'C:/Users/LeiXiaoYun/Documents/Unreal Projects/ShootEmUp/Content/Assets/Maps/Minimal_Default_BuiltData.uasset'
+[2022.06.23-05.46.16:300][796]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.23-05.46.16:300][796]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Assets/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.06.23-05.46.16:300][796]LogContentValidation: Display: Validating World /Game/Assets/Maps/Minimal_Default.Minimal_Default
+[2022.06.23-05.49.22:097][953]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/LeiXiaoYun/Documents/Unreal Projects/ShootEmUp/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2022.06.23-05.49.22:097][953]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/LeiXiaoYun/Documents/Unreal Projects/ShootEmUp/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2022.06.23-05.49.22:549][955]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.23-05.49.22:549][955]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.23-05.49.22:549][955]LogPackageName: Warning: Asset path "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.23-05.49.22:549][955]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.23-05.49.22:549][955]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.23-05.49.22:549][955]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.23-05.49.22:549][955]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2022.06.23-05.49.22:549][955]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2022.06.23-05.49.22:549][955]LogPackageName: SearchForPackageOnDisk took   0.073s to resolve S_Survival_CA_Chicken_02.
+[2022.06.23-05.49.22:549][955]LogPackageName: SearchForPackageOnDisk took   0.090s, but failed to resolve JW_Ice_Mountain.
+[2022.06.23-05.49.22:549][955]LogPackageName: SearchForPackageOnDisk took   0.091s, but failed to resolve JW_Ice_Mountain.
+[2022.06.23-05.49.22:549][955]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2022.06.23-05.49.22:549][955]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2022.06.23-05.49.22:549][955]LogPackageName: SearchForPackageOnDisk took   0.090s, but failed to resolve Env_ALL_Artifacts.
+[2022.06.23-05.49.22:549][955]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
